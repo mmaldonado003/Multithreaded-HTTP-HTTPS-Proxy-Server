@@ -111,3 +111,7 @@ Top 5 domains by request count:
 - JSON logging and automated summary generation
 - Data visualization using Python (matplotlib)
 - Practical proxy configuration on local machines
+
+## Technical Details
+Python 3.x | socket, threading, time | HTTP/HTTPS protocol handling | Local machine proxy configuration
+
