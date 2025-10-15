@@ -93,6 +93,7 @@ Top 5 domains by request count:
 
 ### Top Domains Bar Chart:
 - Shows the 5 most requested domains by number of requests.
+![Top Domains Chart](Logs/Summary%20Logs/top_domains.png)
 - Generated only if `Log` option is enabled and matplotlib is installed.
 
 ## Analysis
