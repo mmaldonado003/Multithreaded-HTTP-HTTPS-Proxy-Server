@@ -32,17 +32,17 @@ The proxy handles multiple simultaneous connections, enforces rate limits, block
 - `handlers.py` — HTTP/HTTPS request handling
 - `logging_utils.py` — logs requests, blocked requests, summaries, and charts
 - `utils.py` — shared constants and helper functions
+  
+## Key Features
+| Feature                  | Description                                        | Business Impact                                         |
+|---------------------------|---------------------------------------------------|--------------------------------------------------------|
+| HTTP Request Routing      | Standard GET/POST handling                        | Enables reliable access to web resources and supports enterprise application traffic |
+| HTTPS CONNECT Tunneling   | Secure site connections handled via tunneling    | Ensures encrypted traffic can pass securely, supporting privacy and regulatory compliance |
+| Traffic Monitoring        | Logs all HTTP and HTTPS requests with metrics (TTFB, bandwidth, duration) | Provides audit trails for compliance, troubleshooting, and capacity planning |
+| Domain Blocking           | Wildcard pattern matching for content filtering  | Enforces organizational policies, blocks websites, and ensures regulatory compliance |
+| Rate Limiting             | Per-IP throttling (e.g., 100 req/10s) prevents abuse | Mitigates DDoS attacks, ensures fair resource allocation, and protects service quality |
+| Performance Analytics     | Automated reports with charts and summaries      | Supports stakeholder reporting, operational insights, and infrastructure optimization |
 
-## Features & Capabilities
-
-| Feature | Description | Verified |
-|---------|-------------|----------|
-| HTTP request routing | Standard GET/POST handling | ✓ |
-| HTTPS CONNECT tunneling | Secure site connections handled via tunneling | ✓ |
-| Blocklist enforcement | YouTube and related domains blocked | ✓ |
-| Rate limiting | Rapid requests trigger 429 error responses (prevents overload) | ✓ |
-| Logging | Logs created under `Logs/Website Traffic`, `Logs/Blocked Logs`, and `Logs/Summary Logs` | ✓ |
-| Graceful shutdown | Ctrl + C generates summary JSON, text report, and chart | ✓ |
 
 ## Tested With / Usage
 
