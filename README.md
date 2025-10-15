@@ -53,7 +53,8 @@ The proxy handles multiple simultaneous connections, enforces rate limits, block
 
 ## Example Logs
 
-### Traffic Log (`Logs/Website Traffic/example.com/`):
+### Traffic Log (`Logs/Website Traffic/'):
+Per-domain request logs (JSON)
 ```json
 {
     "Timestamp": "2025-10-14 18:41:21",
@@ -67,6 +68,7 @@ The proxy handles multiple simultaneous connections, enforces rate limits, block
 ```
 
 ### Blocked Requests Log (`Logs/Blocked Logs/`):
+Security audit logs
 ```json
 {
     "Timestamp": "2025-10-14 18:42:15",
@@ -76,6 +78,7 @@ The proxy handles multiple simultaneous connections, enforces rate limits, block
 ```
 
 ### Summary Report (`Logs/Summary Logs/summary_report.txt`):
+Analytics reports and charts
 ```
 Total requests handled: 1202
 Total bytes sent: 73139325
