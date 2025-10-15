@@ -99,7 +99,7 @@ Top 5 domains by request count:
 ![Top Domains Chart](Logs/Summary%20Logs/top_domains.png)
 - Generated only if `Log` option is enabled and matplotlib is installed.
 
-## Analysis
+## Technical Analysis
 
 - **Performance:** Measures request duration and TTFB per domain.
 - **Load:** Identifies which domains consume the most bandwidth or requests.
