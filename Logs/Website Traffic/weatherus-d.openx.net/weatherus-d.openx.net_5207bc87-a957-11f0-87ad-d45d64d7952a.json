@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:41:35",
+    "Incoming header": "CONNECT weatherus-d.openx.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: weatherus-d.openx.net:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 5987,
+    "Bytes received": 2591,
+    "Request duration (s)": 2.181157200000598,
+    "TTFB (s)": 0.029806000002281507
+}

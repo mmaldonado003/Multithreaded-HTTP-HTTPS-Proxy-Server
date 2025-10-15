@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:43:06",
+    "Incoming header": "CONNECT unagi-na.amazon.com:443 HTTP/1.1\r\nHost: unagi-na.amazon.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 7618,
+    "Bytes received": 7231,
+    "Request duration (s)": 2.698416899998847,
+    "TTFB (s)": 0.048978499999066116
+}

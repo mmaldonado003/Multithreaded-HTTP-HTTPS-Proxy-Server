@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:41:50",
+    "Incoming header": "CONNECT tpsc-uw1.doubleverify.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: tpsc-uw1.doubleverify.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 5361,
+    "Bytes received": 3485,
+    "Request duration (s)": 2.1286823999980697,
+    "TTFB (s)": 0.02302609999969718
+}

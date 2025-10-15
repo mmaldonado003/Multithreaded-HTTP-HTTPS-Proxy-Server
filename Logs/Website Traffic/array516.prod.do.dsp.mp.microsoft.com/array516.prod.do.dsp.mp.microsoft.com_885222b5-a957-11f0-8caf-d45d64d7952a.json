@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:43:06",
+    "Incoming header": "CONNECT array516.prod.do.dsp.mp.microsoft.com:443 HTTP/1.1\r\nHost: array516.prod.do.dsp.mp.microsoft.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 3061,
+    "Bytes received": 1359,
+    "Request duration (s)": 2.280660699998407,
+    "TTFB (s)": 0.06592069999896921
+}

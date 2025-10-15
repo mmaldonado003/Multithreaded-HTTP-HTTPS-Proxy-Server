@@ -1,0 +1,2529 @@
+{
+    "mozilla-ohttp.fastly-edge.com": {
+        "requests": 3,
+        "bytes_sent": 18676,
+        "bytes_received": 11156,
+        "avg_duration": 2.5989645666668366,
+        "avg_ttfb": 0.027074800001476735
+    },
+    "spclient.wg.spotify.com": {
+        "requests": 1,
+        "bytes_sent": 4476,
+        "bytes_received": 4371,
+        "avg_duration": 2.664320600000792,
+        "avg_ttfb": 0.04493160000129137
+    },
+    "gum.criteo.com": {
+        "requests": 9,
+        "bytes_sent": 40404,
+        "bytes_received": 26134,
+        "avg_duration": 1.9481666555564314,
+        "avg_ttfb": 0.01726261111131559
+    },
+    "edgedl.me.gvt1.com": {
+        "requests": 7,
+        "bytes_sent": 29307,
+        "bytes_received": 3164,
+        "avg_duration": 0.7669858142856226,
+        "avg_ttfb": 0.060227371427442576
+    },
+    "warpedwaffle.com": {
+        "requests": 3,
+        "bytes_sent": 46353,
+        "bytes_received": 9894,
+        "avg_duration": 2.275108600000143,
+        "avg_ttfb": 0.03347336666532404
+    },
+    "cdnjs.cloudflare.com": {
+        "requests": 1,
+        "bytes_sent": 4868,
+        "bytes_received": 2534,
+        "avg_duration": 2.1758589999990363,
+        "avg_ttfb": 0.031812999997782754
+    },
+    "s.w-x.co": {
+        "requests": 3,
+        "bytes_sent": 375914,
+        "bytes_received": 11847,
+        "avg_duration": 2.57799186666792,
+        "avg_ttfb": 0.029886466666842654
+    },
+    "micro.rubiconproject.com": {
+        "requests": 1,
+        "bytes_sent": 236255,
+        "bytes_received": 2661,
+        "avg_duration": 2.2191319999983534,
+        "avg_ttfb": 0.014927399999578483
+    },
+    "incoming.telemetry.mozilla.org": {
+        "requests": 3,
+        "bytes_sent": 12335,
+        "bytes_received": 26685,
+        "avg_duration": 2.630518399999952,
+        "avg_ttfb": 0.02945976666766607
+    },
+    "accounts.google.com": {
+        "requests": 6,
+        "bytes_sent": 217738,
+        "bytes_received": 19336,
+        "avg_duration": 2.251460150000033,
+        "avg_ttfb": 0.03850043333295616
+    },
+    "content.jwplatform.com": {
+        "requests": 2,
+        "bytes_sent": 127563,
+        "bytes_received": 4695,
+        "avg_duration": 2.1307235000003857,
+        "avg_ttfb": 0.02693495000130497
+    },
+    "js-sec.indexww.com": {
+        "requests": 3,
+        "bytes_sent": 26104,
+        "bytes_received": 6680,
+        "avg_duration": 2.1677002000008847,
+        "avg_ttfb": 0.011461233334557619
+    },
+    "api.weather.com": {
+        "requests": 2,
+        "bytes_sent": 58382,
+        "bytes_received": 7975,
+        "avg_duration": 2.2152663500000926,
+        "avg_ttfb": 0.033397300001524854
+    },
+    "htlb.casalemedia.com": {
+        "requests": 4,
+        "bytes_sent": 27194,
+        "bytes_received": 39219,
+        "avg_duration": 1.2335072500009119,
+        "avg_ttfb": 0.016494725001393817
+    },
+    "sb.scorecardresearch.com": {
+        "requests": 10,
+        "bytes_sent": 117359,
+        "bytes_received": 25554,
+        "avg_duration": 2.191503390000071,
+        "avg_ttfb": 0.027805529999750434
+    },
+    "hq2zc2zefnwmg3wcm.ay.delivery": {
+        "requests": 2,
+        "bytes_sent": 238537,
+        "bytes_received": 5241,
+        "avg_duration": 2.2782574000011664,
+        "avg_ttfb": 0.02081700000053388
+    },
+    "launchpad.privacymanager.io": {
+        "requests": 1,
+        "bytes_sent": 42352,
+        "bytes_received": 2389,
+        "avg_duration": 2.1184173000001465,
+        "avg_ttfb": 0.037430699998367345
+    },
+    "weather-channel.solutions.cdn.optable.co": {
+        "requests": 1,
+        "bytes_sent": 33904,
+        "bytes_received": 2443,
+        "avg_duration": 2.141225499999564,
+        "avg_ttfb": 0.027186499999515945
+    },
+    "static.newsbreak.com": {
+        "requests": 2,
+        "bytes_sent": 220124,
+        "bytes_received": 4954,
+        "avg_duration": 2.1814148999983445,
+        "avg_ttfb": 0.018027950000032433
+    },
+    "prod.weatherfx.com": {
+        "requests": 2,
+        "bytes_sent": 25267,
+        "bytes_received": 5571,
+        "avg_duration": 2.3453826999993908,
+        "avg_ttfb": 0.029742000000624103
+    },
+    "id-msp.newsbreak.com": {
+        "requests": 3,
+        "bytes_sent": 11128,
+        "bytes_received": 7578,
+        "avg_duration": 2.3282868000011754,
+        "avg_ttfb": 0.08615169999999732
+    },
+    "na.edge.optable.co": {
+        "requests": 5,
+        "bytes_sent": 30180,
+        "bytes_received": 24168,
+        "avg_duration": 2.2769053399992116,
+        "avg_ttfb": 0.03656863999931374
+    },
+    "c.amazon-adsystem.com": {
+        "requests": 2,
+        "bytes_sent": 275092,
+        "bytes_received": 5304,
+        "avg_duration": 2.5227071499994054,
+        "avg_ttfb": 0.02929395000137447
+    },
+    "cdn.confiant-integrations.net": {
+        "requests": 1,
+        "bytes_sent": 212805,
+        "bytes_received": 2501,
+        "avg_duration": 3.0287251000008837,
+        "avg_ttfb": 0.019385999999940395
+    },
+    "secure.cdn.fastclick.net": {
+        "requests": 1,
+        "bytes_sent": 26073,
+        "bytes_received": 2389,
+        "avg_duration": 2.110488800000894,
+        "avg_ttfb": 0.027310000001307344
+    },
+    "ads.rubiconproject.com": {
+        "requests": 1,
+        "bytes_sent": 15987,
+        "bytes_received": 2427,
+        "avg_duration": 2.110874599999079,
+        "avg_ttfb": 0.015938199998345226
+    },
+    "config.aps.amazon-adsystem.com": {
+        "requests": 1,
+        "bytes_sent": 7036,
+        "bytes_received": 2407,
+        "avg_duration": 2.0984529000015755,
+        "avg_ttfb": 0.02138370000102441
+    },
+    "static.adsafeprotected.com": {
+        "requests": 3,
+        "bytes_sent": 19758,
+        "bytes_received": 6794,
+        "avg_duration": 2.098115600000407,
+        "avg_ttfb": 0.023158233333864093
+    },
+    "cdn.id5-sync.com": {
+        "requests": 1,
+        "bytes_sent": 37444,
+        "bytes_received": 2596,
+        "avg_duration": 2.1259558999990986,
+        "avg_ttfb": 0.012403799999447074
+    },
+    "securepubads.g.doubleclick.net": {
+        "requests": 6,
+        "bytes_sent": 676241,
+        "bytes_received": 132213,
+        "avg_duration": 3.9610551499990834,
+        "avg_ttfb": 0.03601353333275862
+    },
+    "launchpad-wrapper.privacymanager.io": {
+        "requests": 1,
+        "bytes_sent": 7943,
+        "bytes_received": 2413,
+        "avg_duration": 2.079888899999787,
+        "avg_ttfb": 0.014779500001168344
+    },
+    "tags.crwdcntrl.net": {
+        "requests": 1,
+        "bytes_sent": 19417,
+        "bytes_received": 2505,
+        "avg_duration": 2.0874831000000995,
+        "avg_ttfb": 0.012696099998720456
+    },
+    "pub.doubleverify.com": {
+        "requests": 1,
+        "bytes_sent": 31342,
+        "bytes_received": 2369,
+        "avg_duration": 2.185294499999145,
+        "avg_ttfb": 0.0444537000003038
+    },
+    "rp.liadm.com": {
+        "requests": 2,
+        "bytes_sent": 10527,
+        "bytes_received": 5692,
+        "avg_duration": 2.2968633499986026,
+        "avg_ttfb": 0.06374499999947147
+    },
+    "idx.liadm.com": {
+        "requests": 1,
+        "bytes_sent": 5636,
+        "bytes_received": 2744,
+        "avg_duration": 2.2305825000003097,
+        "avg_ttfb": 0.04853250000087428
+    },
+    "dnacdn.net": {
+        "requests": 4,
+        "bytes_sent": 15646,
+        "bytes_received": 10386,
+        "avg_duration": 2.1262580249995153,
+        "avg_ttfb": 0.02031604999956471
+    },
+    "sli.em.weather.com": {
+        "requests": 2,
+        "bytes_sent": 13500,
+        "bytes_received": 7793,
+        "avg_duration": 2.0907580999992206,
+        "avg_ttfb": 0.030907700000170735
+    },
+    "982785d86a53dfe55a9e765cee58d126.safeframe.googlesyndication.com": {
+        "requests": 1,
+        "bytes_sent": 8549,
+        "bytes_received": 2565,
+        "avg_duration": 2.1323722999986785,
+        "avg_ttfb": 0.03426929999841377
+    },
+    "pixel.rubiconproject.com": {
+        "requests": 8,
+        "bytes_sent": 48848,
+        "bytes_received": 28585,
+        "avg_duration": 2.410329887500211,
+        "avg_ttfb": 0.05463198750021547
+    },
+    "hb.openwebmp.com": {
+        "requests": 2,
+        "bytes_sent": 10311,
+        "bytes_received": 20493,
+        "avg_duration": 2.371653599999263,
+        "avg_ttfb": 0.06738079999922775
+    },
+    "api.id5-sync.com": {
+        "requests": 2,
+        "bytes_sent": 6601,
+        "bytes_received": 4818,
+        "avg_duration": 2.5864534500014997,
+        "avg_ttfb": 0.14405340000121214
+    },
+    "msp.newsbreak.com": {
+        "requests": 3,
+        "bytes_sent": 18334,
+        "bytes_received": 11962,
+        "avg_duration": 1.7948259333328072,
+        "avg_ttfb": 0.07381253333490652
+    },
+    "a.bids.ws": {
+        "requests": 4,
+        "bytes_sent": 47106,
+        "bytes_received": 27917,
+        "avg_duration": 2.7696229749999475,
+        "avg_ttfb": 0.024470575001032557
+    },
+    "mparticle.weather.com": {
+        "requests": 5,
+        "bytes_sent": 72128,
+        "bytes_received": 27701,
+        "avg_duration": 2.25114001999973,
+        "avg_ttfb": 0.04047955999922124
+    },
+    "vtrk.doubleverify.com": {
+        "requests": 3,
+        "bytes_sent": 10062,
+        "bytes_received": 8371,
+        "avg_duration": 2.105997466666546,
+        "avg_ttfb": 0.0286464666678512
+    },
+    "cdn.jsdelivr.net": {
+        "requests": 3,
+        "bytes_sent": 102369,
+        "bytes_received": 7350,
+        "avg_duration": 0.8796759666680979,
+        "avg_ttfb": 0.034868933334413064
+    },
+    "prebid-server.rubiconproject.com": {
+        "requests": 2,
+        "bytes_sent": 9360,
+        "bytes_received": 12028,
+        "avg_duration": 2.2396976500003802,
+        "avg_ttfb": 0.039704799999526585
+    },
+    "tlx.3lift.com": {
+        "requests": 2,
+        "bytes_sent": 23658,
+        "bytes_received": 28645,
+        "avg_duration": 2.356191499999113,
+        "avg_ttfb": 0.05964230000063253
+    },
+    "grid-bidder.criteo.com": {
+        "requests": 2,
+        "bytes_sent": 17332,
+        "bytes_received": 16527,
+        "avg_duration": 2.2940903999988222,
+        "avg_ttfb": 0.019086099999185535
+    },
+    "hbopenbid.pubmatic.com": {
+        "requests": 2,
+        "bytes_sent": 9765,
+        "bytes_received": 13080,
+        "avg_duration": 2.4236147999999957,
+        "avg_ttfb": 0.08691144999829703
+    },
+    "display.bidder.taboola.com": {
+        "requests": 2,
+        "bytes_sent": 11971,
+        "bytes_received": 13583,
+        "avg_duration": 2.2586268999984895,
+        "avg_ttfb": 0.023147849999077152
+    },
+    "direct.adsrvr.org": {
+        "requests": 3,
+        "bytes_sent": 24042,
+        "bytes_received": 24121,
+        "avg_duration": 2.330552233332128,
+        "avg_ttfb": 0.0583525333313446
+    },
+    "fastlane.rubiconproject.com": {
+        "requests": 4,
+        "bytes_sent": 38940,
+        "bytes_received": 40989,
+        "avg_duration": 1.8222478249999767,
+        "avg_ttfb": 0.04990157499923953
+    },
+    "rtb.openx.net": {
+        "requests": 2,
+        "bytes_sent": 10685,
+        "bytes_received": 25637,
+        "avg_duration": 2.3937049500018475,
+        "avg_ttfb": 0.032269900000756024
+    },
+    "aax.amazon-adsystem.com": {
+        "requests": 3,
+        "bytes_sent": 21951,
+        "bytes_received": 12284,
+        "avg_duration": 2.4008995666663395,
+        "avg_ttfb": 0.025537066666098934
+    },
+    "weather.com": {
+        "requests": 3,
+        "bytes_sent": 2312798,
+        "bytes_received": 290777,
+        "avg_duration": 4.126728100000037,
+        "avg_ttfb": 0.035961333333640745
+    },
+    "resources.digital-cloud-west.medallia.com": {
+        "requests": 1,
+        "bytes_sent": 9655,
+        "bytes_received": 2402,
+        "avg_duration": 2.1152156999996805,
+        "avg_ttfb": 0.03932060000079218
+    },
+    "cdn.taboola.com": {
+        "requests": 2,
+        "bytes_sent": 327940,
+        "bytes_received": 5352,
+        "avg_duration": 2.7414844499999163,
+        "avg_ttfb": 0.042112600000109524
+    },
+    "entitlements.jwplayer.com": {
+        "requests": 1,
+        "bytes_sent": 7027,
+        "bytes_received": 2395,
+        "avg_duration": 2.0932093000010354,
+        "avg_ttfb": 0.013947100000223145
+    },
+    "beacon.taboola.com": {
+        "requests": 1,
+        "bytes_sent": 5720,
+        "bytes_received": 2534,
+        "avg_duration": 2.206291300000885,
+        "avg_ttfb": 0.04585710000174004
+    },
+    "s.amazon-adsystem.com": {
+        "requests": 28,
+        "bytes_sent": 187808,
+        "bytes_received": 100542,
+        "avg_duration": 2.419762317857411,
+        "avg_ttfb": 0.05728932499992619
+    },
+    "ssl.p.jwpcdn.com": {
+        "requests": 1,
+        "bytes_sent": 315293,
+        "bytes_received": 2882,
+        "avg_duration": 2.4399720000001253,
+        "avg_ttfb": 0.022212100000615465
+    },
+    "v.w-x.co": {
+        "requests": 1,
+        "bytes_sent": 159493,
+        "bytes_received": 2965,
+        "avg_duration": 2.216730500000267,
+        "avg_ttfb": 0.011806099999375874
+    },
+    "s.ad.smaato.net": {
+        "requests": 1,
+        "bytes_sent": 3341,
+        "bytes_received": 2471,
+        "avg_duration": 2.2196622000010393,
+        "avg_ttfb": 0.054773500000010245
+    },
+    "imasdk.googleapis.com": {
+        "requests": 1,
+        "bytes_sent": 435291,
+        "bytes_received": 2624,
+        "avg_duration": 2.545714500000031,
+        "avg_ttfb": 0.03934089999893331
+    },
+    "jadserve.postrelease.com": {
+        "requests": 2,
+        "bytes_sent": 9970,
+        "bytes_received": 5260,
+        "avg_duration": 2.322029000002658,
+        "avg_ttfb": 0.0814676000009058
+    },
+    "pagead2.googlesyndication.com": {
+        "requests": 20,
+        "bytes_sent": 286762,
+        "bytes_received": 69441,
+        "avg_duration": 2.20239513000015,
+        "avg_ttfb": 0.03741392999982054
+    },
+    "s0.2mdn.net": {
+        "requests": 3,
+        "bytes_sent": 113517,
+        "bytes_received": 7855,
+        "avg_duration": 2.2454454666646293,
+        "avg_ttfb": 0.026990799998505583
+    },
+    "pm-widget.taboola.com": {
+        "requests": 2,
+        "bytes_sent": 37783,
+        "bytes_received": 4996,
+        "avg_duration": 2.0992011499984073,
+        "avg_ttfb": 0.028875799998786533
+    },
+    "ms-cookie-sync.presage.io": {
+        "requests": 1,
+        "bytes_sent": 2995,
+        "bytes_received": 2436,
+        "avg_duration": 2.353833900000609,
+        "avg_ttfb": 0.09808900000280119
+    },
+    "translate.google.com": {
+        "requests": 1,
+        "bytes_sent": 35450,
+        "bytes_received": 2424,
+        "avg_duration": 2.212900599999557,
+        "avg_ttfb": 0.05252389999805018
+    },
+    "coautilities.com": {
+        "requests": 6,
+        "bytes_sent": 926944,
+        "bytes_received": 29159,
+        "avg_duration": 3.224909283332939,
+        "avg_ttfb": 0.03103131666648551
+    },
+    "use.fontawesome.com": {
+        "requests": 1,
+        "bytes_sent": 98694,
+        "bytes_received": 2611,
+        "avg_duration": 2.3162899000017205,
+        "avg_ttfb": 0.03479350000270642
+    },
+    "p.rfihub.com": {
+        "requests": 1,
+        "bytes_sent": 7099,
+        "bytes_received": 2870,
+        "avg_duration": 2.2560101999988547,
+        "avg_ttfb": 0.0638900999983889
+    },
+    "fonts.googleapis.com": {
+        "requests": 3,
+        "bytes_sent": 19130,
+        "bytes_received": 6932,
+        "avg_duration": 2.2330811000004664,
+        "avg_ttfb": 0.048794333334323405
+    },
+    "fonts.gstatic.com": {
+        "requests": 10,
+        "bytes_sent": 330268,
+        "bytes_received": 26265,
+        "avg_duration": 2.270882530000017,
+        "avg_ttfb": 0.040779010000187556
+    },
+    "sync.1rx.io": {
+        "requests": 1,
+        "bytes_sent": 8699,
+        "bytes_received": 2713,
+        "avg_duration": 2.5996809999996913,
+        "avg_ttfb": 0.07081909999760683
+    },
+    "trc.taboola.com": {
+        "requests": 2,
+        "bytes_sent": 89115,
+        "bytes_received": 24645,
+        "avg_duration": 2.5375272999990557,
+        "avg_ttfb": 0.02850870000111172
+    },
+    "www.googletagmanager.com": {
+        "requests": 5,
+        "bytes_sent": 1047962,
+        "bytes_received": 13520,
+        "avg_duration": 2.3223994399995718,
+        "avg_ttfb": 0.0399842599996191
+    },
+    "www.light.gg": {
+        "requests": 1,
+        "bytes_sent": 1429028,
+        "bytes_received": 70141,
+        "avg_duration": 4.592371400001866,
+        "avg_ttfb": 0.040319400002772454
+    },
+    "www.bungie.net": {
+        "requests": 1,
+        "bytes_sent": 9685,
+        "bytes_received": 2633,
+        "avg_duration": 2.1238248000008753,
+        "avg_ttfb": 0.026617499999701977
+    },
+    "edstem.org": {
+        "requests": 1,
+        "bytes_sent": 189801,
+        "bytes_received": 1419,
+        "avg_duration": 3.8817228000007162,
+        "avg_ttfb": 0.027546400000574067
+    },
+    "ch-trc-events.taboola.com": {
+        "requests": 11,
+        "bytes_sent": 42853,
+        "bytes_received": 44876,
+        "avg_duration": 2.1948871545444657,
+        "avg_ttfb": 0.05464843636350865
+    },
+    "21pearl.residentportal.com": {
+        "requests": 1,
+        "bytes_sent": 34485,
+        "bytes_received": 3051,
+        "avg_duration": 2.5692548000006354,
+        "avg_ttfb": 0.033547200000612065
+    },
+    "www.google-analytics.com": {
+        "requests": 2,
+        "bytes_sent": 12076,
+        "bytes_received": 6281,
+        "avg_duration": 2.137243400000443,
+        "avg_ttfb": 0.04409395000038785
+    },
+    "www.cs.utexas.edu": {
+        "requests": 7,
+        "bytes_sent": 50628,
+        "bytes_received": 60282,
+        "avg_duration": 0.11681359999991921,
+        "avg_ttfb": 0.03239989999981065
+    },
+    "cs.media.net": {
+        "requests": 2,
+        "bytes_sent": 10558,
+        "bytes_received": 5341,
+        "avg_duration": 1.181118950000382,
+        "avg_ttfb": 0.03652039999906265
+    },
+    "ssp-sync.criteo.com": {
+        "requests": 3,
+        "bytes_sent": 12083,
+        "bytes_received": 8066,
+        "avg_duration": 0.9704341666668673,
+        "avg_ttfb": 0.013872299999396395
+    },
+    "rpcdn.residentportal.com": {
+        "requests": 2,
+        "bytes_sent": 9392002,
+        "bytes_received": 5898,
+        "avg_duration": 3.6117517499988026,
+        "avg_ttfb": 0.029481350000423845
+    },
+    "bids.ws": {
+        "requests": 1,
+        "bytes_sent": 7249,
+        "bytes_received": 2913,
+        "avg_duration": 2.082899600001838,
+        "avg_ttfb": 0.00807630000053905
+    },
+    "sdk.openwebmp.com": {
+        "requests": 1,
+        "bytes_sent": 8077,
+        "bytes_received": 2573,
+        "avg_duration": 2.093715400002111,
+        "avg_ttfb": 0.016531600002053892
+    },
+    "weatherus-d.openx.net": {
+        "requests": 1,
+        "bytes_sent": 5987,
+        "bytes_received": 2591,
+        "avg_duration": 2.181157200000598,
+        "avg_ttfb": 0.029806000002281507
+    },
+    "tsdtocl.com": {
+        "requests": 1,
+        "bytes_sent": 6599,
+        "bytes_received": 2413,
+        "avg_duration": 2.0630323000004864,
+        "avg_ttfb": 0.005634699999063741
+    },
+    "ssum-sec.casalemedia.com": {
+        "requests": 4,
+        "bytes_sent": 17502,
+        "bytes_received": 10609,
+        "avg_duration": 2.1976854249996904,
+        "avg_ttfb": 0.030400700000427605
+    },
+    "gem.gbc.criteo.com": {
+        "requests": 1,
+        "bytes_sent": 4228,
+        "bytes_received": 2382,
+        "avg_duration": 2.1304898999987927,
+        "avg_ttfb": 0.018853800000215415
+    },
+    "ag.gbc.criteo.com": {
+        "requests": 1,
+        "bytes_sent": 4228,
+        "bytes_received": 2380,
+        "avg_duration": 2.145977700001822,
+        "avg_ttfb": 0.022878900002979208
+    },
+    "eus.rubiconproject.com": {
+        "requests": 1,
+        "bytes_sent": 16570,
+        "bytes_received": 2880,
+        "avg_duration": 2.436529500002507,
+        "avg_ttfb": 0.016494900002726354
+    },
+    "contextual.media.net": {
+        "requests": 1,
+        "bytes_sent": 5218,
+        "bytes_received": 2562,
+        "avg_duration": 2.1465707999996084,
+        "avg_ttfb": 0.03444350000063423
+    },
+    "event.hgrtb.com": {
+        "requests": 1,
+        "bytes_sent": 3857,
+        "bytes_received": 2524,
+        "avg_duration": 2.2123758000016096,
+        "avg_ttfb": 0.03982970000288333
+    },
+    "cdn.indexww.com": {
+        "requests": 1,
+        "bytes_sent": 4382,
+        "bytes_received": 2446,
+        "avg_duration": 2.108652400002029,
+        "avg_ttfb": 0.022219400001631584
+    },
+    "sync-tm.everesttech.net": {
+        "requests": 1,
+        "bytes_sent": 5296,
+        "bytes_received": 2598,
+        "avg_duration": 2.124385200000688,
+        "avg_ttfb": 0.021814699997776188
+    },
+    "oxp.mxptint.net": {
+        "requests": 1,
+        "bytes_sent": 5073,
+        "bytes_received": 2537,
+        "avg_duration": 2.278395500001352,
+        "avg_ttfb": 0.06637440000122297
+    },
+    "thrtle.com": {
+        "requests": 1,
+        "bytes_sent": 5031,
+        "bytes_received": 2611,
+        "avg_duration": 2.2778623000012885,
+        "avg_ttfb": 0.053638400000636466
+    },
+    "dpm.demdex.net": {
+        "requests": 5,
+        "bytes_sent": 29088,
+        "bytes_received": 13038,
+        "avg_duration": 2.3976676999998743,
+        "avg_ttfb": 0.07600345999962883
+    },
+    "s.company-target.com": {
+        "requests": 1,
+        "bytes_sent": 4474,
+        "bytes_received": 2556,
+        "avg_duration": 2.204125500000373,
+        "avg_ttfb": 0.03983890000017709
+    },
+    "sync.srv.stackadapt.com": {
+        "requests": 1,
+        "bytes_sent": 4565,
+        "bytes_received": 2533,
+        "avg_duration": 2.2267345000000205,
+        "avg_ttfb": 0.05465589999948861
+    },
+    "cm.adgrx.com": {
+        "requests": 1,
+        "bytes_sent": 7608,
+        "bytes_received": 2549,
+        "avg_duration": 2.2201193000000785,
+        "avg_ttfb": 0.0601091999997152
+    },
+    "aorta.clickagy.com": {
+        "requests": 1,
+        "bytes_sent": 5041,
+        "bytes_received": 2603,
+        "avg_duration": 2.246765799998684,
+        "avg_ttfb": 0.05340720000094734
+    },
+    "openx2-match.dotomi.com": {
+        "requests": 1,
+        "bytes_sent": 4702,
+        "bytes_received": 2684,
+        "avg_duration": 2.357611300001736,
+        "avg_ttfb": 0.05135420000078739
+    },
+    "token.rubiconproject.com": {
+        "requests": 5,
+        "bytes_sent": 26235,
+        "bytes_received": 14935,
+        "avg_duration": 2.4576685200008797,
+        "avg_ttfb": 0.05766612000152236
+    },
+    "ums.acuityplatform.com": {
+        "requests": 1,
+        "bytes_sent": 6907,
+        "bytes_received": 2474,
+        "avg_duration": 2.2242662999997265,
+        "avg_ttfb": 0.05718010000055074
+    },
+    "capi.connatix.com": {
+        "requests": 3,
+        "bytes_sent": 13550,
+        "bytes_received": 7699,
+        "avg_duration": 2.255839999999201,
+        "avg_ttfb": 0.025094566665453993
+    },
+    "id.rlcdn.com": {
+        "requests": 1,
+        "bytes_sent": 7271,
+        "bytes_received": 2531,
+        "avg_duration": 2.1446667999989586,
+        "avg_ttfb": 0.029921099998318823
+    },
+    "us-u.openx.net": {
+        "requests": 5,
+        "bytes_sent": 19790,
+        "bytes_received": 14617,
+        "avg_duration": 2.236011680000229,
+        "avg_ttfb": 0.0358250000012049
+    },
+    "sync.resetdigital.co": {
+        "requests": 1,
+        "bytes_sent": 5858,
+        "bytes_received": 2531,
+        "avg_duration": 2.2728372999990825,
+        "avg_ttfb": 0.05829269999958342
+    },
+    "tracker.marketiq.com": {
+        "requests": 1,
+        "bytes_sent": 3926,
+        "bytes_received": 3044,
+        "avg_duration": 2.342292400000588,
+        "avg_ttfb": 0.059014700000261655
+    },
+    "ad.turn.com": {
+        "requests": 1,
+        "bytes_sent": 7254,
+        "bytes_received": 2446,
+        "avg_duration": 2.1867607999993197,
+        "avg_ttfb": 0.03511169999910635
+    },
+    "eb2.3lift.com": {
+        "requests": 1,
+        "bytes_sent": 8302,
+        "bytes_received": 3405,
+        "avg_duration": 2.803824700000405,
+        "avg_ttfb": 0.0180004000030749
+    },
+    "secure.adnxs.com": {
+        "requests": 2,
+        "bytes_sent": 9144,
+        "bytes_received": 7716,
+        "avg_duration": 2.2138482999980624,
+        "avg_ttfb": 0.05356385000050068
+    },
+    "idsync.rlcdn.com": {
+        "requests": 2,
+        "bytes_sent": 15008,
+        "bytes_received": 5408,
+        "avg_duration": 2.248048800000106,
+        "avg_ttfb": 0.03863244999774906
+    },
+    "cs.admanmedia.com": {
+        "requests": 1,
+        "bytes_sent": 6901,
+        "bytes_received": 2713,
+        "avg_duration": 2.313886200001434,
+        "avg_ttfb": 0.04705119999925955
+    },
+    "qvdt3feo.com": {
+        "requests": 1,
+        "bytes_sent": 4905,
+        "bytes_received": 2765,
+        "avg_duration": 2.29944610000166,
+        "avg_ttfb": 0.06786290000309236
+    },
+    "pixel.tapad.com": {
+        "requests": 1,
+        "bytes_sent": 5984,
+        "bytes_received": 2659,
+        "avg_duration": 2.199164900001051,
+        "avg_ttfb": 0.028878400000394322
+    },
+    "ssbsync-global.smartadserver.com": {
+        "requests": 1,
+        "bytes_sent": 4122,
+        "bytes_received": 2755,
+        "avg_duration": 2.173541300002398,
+        "avg_ttfb": 0.03418990000136546
+    },
+    "www.temu.com": {
+        "requests": 1,
+        "bytes_sent": 5806,
+        "bytes_received": 2768,
+        "avg_duration": 2.4531944999980624,
+        "avg_ttfb": 0.04308359999777167
+    },
+    "ads.pubmatic.com": {
+        "requests": 1,
+        "bytes_sent": 19665,
+        "bytes_received": 8704,
+        "avg_duration": 3.049518799998623,
+        "avg_ttfb": 0.02222579999943264
+    },
+    "t.adx.opera.com": {
+        "requests": 1,
+        "bytes_sent": 6608,
+        "bytes_received": 3208,
+        "avg_duration": 2.711553400000412,
+        "avg_ttfb": 0.12256449999767938
+    },
+    "dsum-sec.casalemedia.com": {
+        "requests": 1,
+        "bytes_sent": 6845,
+        "bytes_received": 3268,
+        "avg_duration": 2.5585567000016454,
+        "avg_ttfb": 0.009155600000667619
+    },
+    "hbx.media.net": {
+        "requests": 1,
+        "bytes_sent": 15188,
+        "bytes_received": 2705,
+        "avg_duration": 2.114646599999105,
+        "avg_ttfb": 0.031160099999397062
+    },
+    "x.bidswitch.net": {
+        "requests": 1,
+        "bytes_sent": 4620,
+        "bytes_received": 2893,
+        "avg_duration": 2.7429059999994934,
+        "avg_ttfb": 0.04572559999724035
+    },
+    "sync.springserve.com": {
+        "requests": 1,
+        "bytes_sent": 5044,
+        "bytes_received": 2602,
+        "avg_duration": 2.2286986999970395,
+        "avg_ttfb": 0.06533699999999953
+    },
+    "user-sync.fwmrm.net": {
+        "requests": 1,
+        "bytes_sent": 7192,
+        "bytes_received": 4463,
+        "avg_duration": 3.2469807000015862,
+        "avg_ttfb": 0.08377150000160327
+    },
+    "js-agent.newrelic.com": {
+        "requests": 1,
+        "bytes_sent": 41950,
+        "bytes_received": 2402,
+        "avg_duration": 2.140587100002449,
+        "avg_ttfb": 0.03437169999961043
+    },
+    "match.adsrvr.org": {
+        "requests": 2,
+        "bytes_sent": 14492,
+        "bytes_received": 6369,
+        "avg_duration": 3.002539949999118,
+        "avg_ttfb": 0.016868099999555852
+    },
+    "applepay.cdn-apple.com": {
+        "requests": 1,
+        "bytes_sent": 21693,
+        "bytes_received": 2442,
+        "avg_duration": 2.15597870000056,
+        "avg_ttfb": 0.03453990000343765
+    },
+    "match.prod.bidr.io": {
+        "requests": 1,
+        "bytes_sent": 5213,
+        "bytes_received": 3177,
+        "avg_duration": 2.8061584000024595,
+        "avg_ttfb": 0.0852247000002535
+    },
+    "creativecdn.com": {
+        "requests": 1,
+        "bytes_sent": 5438,
+        "bytes_received": 2476,
+        "avg_duration": 2.5245495999988634,
+        "avg_ttfb": 0.14107229999717674
+    },
+    "aax-eu.amazon-adsystem.com": {
+        "requests": 1,
+        "bytes_sent": 8183,
+        "bytes_received": 3168,
+        "avg_duration": 3.4224322000009124,
+        "avg_ttfb": 0.13350800000262097
+    },
+    "medialibrarycfo.entrata.com": {
+        "requests": 1,
+        "bytes_sent": 24962,
+        "bytes_received": 2636,
+        "avg_duration": 2.136999800000922,
+        "avg_ttfb": 0.02897030000167433
+    },
+    "sync.ipredictive.com": {
+        "requests": 1,
+        "bytes_sent": 5001,
+        "bytes_received": 2704,
+        "avg_duration": 2.2345049000032304,
+        "avg_ttfb": 0.052409300002182135
+    },
+    "ib.adnxs.com": {
+        "requests": 4,
+        "bytes_sent": 42611,
+        "bytes_received": 32964,
+        "avg_duration": 2.6539562500011016,
+        "avg_ttfb": 0.05145737500060932
+    },
+    "cm.g.doubleclick.net": {
+        "requests": 4,
+        "bytes_sent": 29691,
+        "bytes_received": 12238,
+        "avg_duration": 2.732230049999089,
+        "avg_ttfb": 0.037998050000169314
+    },
+    "ut.pubmatic.com": {
+        "requests": 1,
+        "bytes_sent": 5112,
+        "bytes_received": 2597,
+        "avg_duration": 3.9243878000015684,
+        "avg_ttfb": 0.03654650000316906
+    },
+    "cd.connatix.com": {
+        "requests": 1,
+        "bytes_sent": 5461,
+        "bytes_received": 2397,
+        "avg_duration": 2.12088379999841,
+        "avg_ttfb": 0.035497599998052465
+    },
+    "ups.analytics.yahoo.com": {
+        "requests": 4,
+        "bytes_sent": 24670,
+        "bytes_received": 10511,
+        "avg_duration": 2.147569349999685,
+        "avg_ttfb": 0.020087900000362424
+    },
+    "beacon.bidder.taboola.com": {
+        "requests": 1,
+        "bytes_sent": 4908,
+        "bytes_received": 22284,
+        "avg_duration": 2.1574739000025147,
+        "avg_ttfb": 0.02862029999960214
+    },
+    "www.amazon.com": {
+        "requests": 13,
+        "bytes_sent": 2651882,
+        "bytes_received": 104315,
+        "avg_duration": 3.483183453845693,
+        "avg_ttfb": 0.027798223076668085
+    },
+    "images-na.ssl-images-amazon.com": {
+        "requests": 15,
+        "bytes_sent": 1803257,
+        "bytes_received": 50395,
+        "avg_duration": 2.629226566666815,
+        "avg_ttfb": 0.09207182000003135
+    },
+    "m.media-amazon.com": {
+        "requests": 27,
+        "bytes_sent": 19834935,
+        "bytes_received": 155551,
+        "avg_duration": 2.566562981481116,
+        "avg_ttfb": 0.025210503703689296
+    },
+    "fls-na.amazon.com": {
+        "requests": 24,
+        "bytes_sent": 103016,
+        "bytes_received": 179490,
+        "avg_duration": 2.720050216666247,
+        "avg_ttfb": 0.06119196249968203
+    },
+    "cdn.doubleverify.com": {
+        "requests": 1,
+        "bytes_sent": 107728,
+        "bytes_received": 2720,
+        "avg_duration": 2.181822899998224,
+        "avg_ttfb": 0.03659239999979036
+    },
+    "completion.amazon.com": {
+        "requests": 6,
+        "bytes_sent": 27940,
+        "bytes_received": 18434,
+        "avg_duration": 2.2391163333334894,
+        "avg_ttfb": 0.06181771666645849
+    },
+    "www.googletagservices.com": {
+        "requests": 3,
+        "bytes_sent": 51527,
+        "bytes_received": 7525,
+        "avg_duration": 2.189167599998958,
+        "avg_ttfb": 0.03179553333272148
+    },
+    "tps.doubleverify.com": {
+        "requests": 3,
+        "bytes_sent": 17316,
+        "bytes_received": 13597,
+        "avg_duration": 2.289409100000436,
+        "avg_ttfb": 0.03376630000032795
+    },
+    "unagi.amazon.com": {
+        "requests": 27,
+        "bytes_sent": 109544,
+        "bytes_received": 2197401,
+        "avg_duration": 2.450471492592543,
+        "avg_ttfb": 0.058276955555575785
+    },
+    "ad.doubleclick.net": {
+        "requests": 8,
+        "bytes_sent": 153373,
+        "bytes_received": 27146,
+        "avg_duration": 2.3559353625000767,
+        "avg_ttfb": 0.034000000001014996
+    },
+    "ats-wrapper.privacymanager.io": {
+        "requests": 1,
+        "bytes_sent": 42055,
+        "bytes_received": 2399,
+        "avg_duration": 2.1034799000008206,
+        "avg_ttfb": 0.019118100000923732
+    },
+    "ep2.adtrafficquality.google": {
+        "requests": 1,
+        "bytes_sent": 32020,
+        "bytes_received": 2638,
+        "avg_duration": 2.177346899999975,
+        "avg_ttfb": 0.028725100000883685
+    },
+    "protected-by.clarium.io": {
+        "requests": 1,
+        "bytes_sent": 5203,
+        "bytes_received": 10619,
+        "avg_duration": 3.350672600001417,
+        "avg_ttfb": 0.073524899999029
+    },
+    "www.imdb.com": {
+        "requests": 3,
+        "bytes_sent": 19288,
+        "bytes_received": 7378,
+        "avg_duration": 2.1699080999981866,
+        "avg_ttfb": 0.036327266665466595
+    },
+    "cms.analytics.yahoo.com": {
+        "requests": 4,
+        "bytes_sent": 18985,
+        "bytes_received": 10648,
+        "avg_duration": 2.091964325000845,
+        "avg_ttfb": 0.029468775000168534
+    },
+    "pi.ispot.tv": {
+        "requests": 2,
+        "bytes_sent": 9699,
+        "bytes_received": 4888,
+        "avg_duration": 2.103456000000733,
+        "avg_ttfb": 0.03268460000072082
+    },
+    "odr.mookie1.com": {
+        "requests": 2,
+        "bytes_sent": 14789,
+        "bytes_received": 5150,
+        "avg_duration": 2.16515999999865,
+        "avg_ttfb": 0.025810649998675217
+    },
+    "lciapi.ninthdecimal.com": {
+        "requests": 2,
+        "bytes_sent": 9030,
+        "bytes_received": 5070,
+        "avg_duration": 2.188112050002019,
+        "avg_ttfb": 0.03134535000208416
+    },
+    "aa.agkn.com": {
+        "requests": 3,
+        "bytes_sent": 15782,
+        "bytes_received": 7394,
+        "avg_duration": 2.127069100000275,
+        "avg_ttfb": 0.016340733333587803
+    },
+    "ep1.adtrafficquality.google": {
+        "requests": 2,
+        "bytes_sent": 46096,
+        "bytes_received": 6189,
+        "avg_duration": 2.233037650001279,
+        "avg_ttfb": 0.029658300001756288
+    },
+    "aax-us-east-retail-direct.amazon.com": {
+        "requests": 13,
+        "bytes_sent": 65276,
+        "bytes_received": 34946,
+        "avg_duration": 2.4579213461530833,
+        "avg_ttfb": 0.020702661537842896
+    },
+    "sync.taboola.com": {
+        "requests": 2,
+        "bytes_sent": 7597,
+        "bytes_received": 4960,
+        "avg_duration": 2.2083705499990174,
+        "avg_ttfb": 0.04588839999996708
+    },
+    "usersync.samplicio.us": {
+        "requests": 3,
+        "bytes_sent": 10477,
+        "bytes_received": 7455,
+        "avg_duration": 2.231957799999994,
+        "avg_ttfb": 0.060868400001102906
+    },
+    "spl.zeotap.com": {
+        "requests": 4,
+        "bytes_sent": 15576,
+        "bytes_received": 10378,
+        "avg_duration": 2.241857525001251,
+        "avg_ttfb": 0.025748050000402145
+    },
+    "image6.pubmatic.com": {
+        "requests": 4,
+        "bytes_sent": 19737,
+        "bytes_received": 10331,
+        "avg_duration": 2.310752099999263,
+        "avg_ttfb": 0.07021787499979837
+    },
+    "aes.us-east.ono.axp.amazon-adsystem.com": {
+        "requests": 13,
+        "bytes_sent": 39784,
+        "bytes_received": 36680,
+        "avg_duration": 2.291237415384295,
+        "avg_ttfb": 0.054946453845891835
+    },
+    "uipglob.semasio.net": {
+        "requests": 4,
+        "bytes_sent": 11332,
+        "bytes_received": 13224,
+        "avg_duration": 2.360255075001078,
+        "avg_ttfb": 0.044707349999953294
+    },
+    "c1.adform.net": {
+        "requests": 5,
+        "bytes_sent": 23491,
+        "bytes_received": 13870,
+        "avg_duration": 2.3488368600003016,
+        "avg_ttfb": 0.055335960000229535
+    },
+    "unagi-na.amazon.com": {
+        "requests": 25,
+        "bytes_sent": 104939,
+        "bytes_received": 121837,
+        "avg_duration": 2.2845461680002335,
+        "avg_ttfb": 0.05721329999985755
+    },
+    "cdn.flashtalking.com": {
+        "requests": 4,
+        "bytes_sent": 116309,
+        "bytes_received": 10099,
+        "avg_duration": 2.147397799999453,
+        "avg_ttfb": 0.02046364999932848
+    },
+    "ads.samba.tv": {
+        "requests": 3,
+        "bytes_sent": 10165,
+        "bytes_received": 7680,
+        "avg_duration": 2.346297099998386,
+        "avg_ttfb": 0.07772869999947336
+    },
+    "api.stores.us-east-1.prod.paets.advertising.amazon.dev": {
+        "requests": 8,
+        "bytes_sent": 22964,
+        "bytes_received": 21780,
+        "avg_duration": 2.4783240499991734,
+        "avg_ttfb": 0.056477212499885354
+    },
+    "vfw.amazon-adsystem.com": {
+        "requests": 7,
+        "bytes_sent": 50268,
+        "bytes_received": 30339,
+        "avg_duration": 2.4190387857140325,
+        "avg_ttfb": 0.08968705714245775
+    },
+    "googleads4.g.doubleclick.net": {
+        "requests": 1,
+        "bytes_sent": 5528,
+        "bytes_received": 3624,
+        "avg_duration": 2.63793380000061,
+        "avg_ttfb": 0.03320010000243201
+    },
+    "encrypted-tbn0.gstatic.com": {
+        "requests": 3,
+        "bytes_sent": 58818,
+        "bytes_received": 8357,
+        "avg_duration": 2.1749974333336772,
+        "avg_ttfb": 0.04432249999930112
+    },
+    "prebid-a.rubiconproject.com": {
+        "requests": 4,
+        "bytes_sent": 10548,
+        "bytes_received": 46495,
+        "avg_duration": 2.2036397999991095,
+        "avg_ttfb": 0.05791422499987675
+    },
+    "www.google.com": {
+        "requests": 21,
+        "bytes_sent": 2584047,
+        "bytes_received": 143235,
+        "avg_duration": 2.41322570476162,
+        "avg_ttfb": 0.03653126666679219
+    },
+    "play.google.com": {
+        "requests": 15,
+        "bytes_sent": 75070,
+        "bytes_received": 57292,
+        "avg_duration": 2.008297980000013,
+        "avg_ttfb": 0.042381933333914885
+    },
+    "ir.ebaystatic.com": {
+        "requests": 7,
+        "bytes_sent": 907830,
+        "bytes_received": 19344,
+        "avg_duration": 1.0731191142861332,
+        "avg_ttfb": 0.02572158571430399
+    },
+    "tpsc-uw1.doubleverify.com": {
+        "requests": 1,
+        "bytes_sent": 5361,
+        "bytes_received": 3485,
+        "avg_duration": 2.1286823999980697,
+        "avg_ttfb": 0.02302609999969718
+    },
+    "lh3.google.com": {
+        "requests": 1,
+        "bytes_sent": 9665,
+        "bytes_received": 4691,
+        "avg_duration": 2.156817000002775,
+        "avg_ttfb": 0.0467824000006658
+    },
+    "www.googleadservices.com": {
+        "requests": 8,
+        "bytes_sent": 43543,
+        "bytes_received": 34233,
+        "avg_duration": 2.175131487499584,
+        "avg_ttfb": 0.04473692499959725
+    },
+    "lh3.googleusercontent.com": {
+        "requests": 1,
+        "bytes_sent": 11231,
+        "bytes_received": 3356,
+        "avg_duration": 2.2050956999992195,
+        "avg_ttfb": 0.05186599999797181
+    },
+    "csp.withgoogle.com": {
+        "requests": 1,
+        "bytes_sent": 6689,
+        "bytes_received": 3057,
+        "avg_duration": 2.205212199998641,
+        "avg_ttfb": 0.05530279999948107
+    },
+    "ogads-pa.clients6.google.com": {
+        "requests": 11,
+        "bytes_sent": 91254,
+        "bytes_received": 36134,
+        "avg_duration": 2.1652054818173796,
+        "avg_ttfb": 0.04105919090844426
+    },
+    "www.gstatic.com": {
+        "requests": 3,
+        "bytes_sent": 347253,
+        "bytes_received": 15606,
+        "avg_duration": 2.375881133334284,
+        "avg_ttfb": 0.04282873333310514
+    },
+    "encrypted-tbn3.gstatic.com": {
+        "requests": 1,
+        "bytes_sent": 4565,
+        "bytes_received": 2723,
+        "avg_duration": 2.1279108000017004,
+        "avg_ttfb": 0.04347290000077919
+    },
+    "www.ebay.com": {
+        "requests": 2,
+        "bytes_sent": 463688,
+        "bytes_received": 14735,
+        "avg_duration": 2.9460159499994916,
+        "avg_ttfb": 0.02277909999975236
+    },
+    "ade.googlesyndication.com": {
+        "requests": 8,
+        "bytes_sent": 33817,
+        "bytes_received": 23802,
+        "avg_duration": 2.1805492625003353,
+        "avg_ttfb": 0.036133287499978906
+    },
+    "clientservices.googleapis.com": {
+        "requests": 6,
+        "bytes_sent": 25169,
+        "bytes_received": 198159,
+        "avg_duration": 2.189241783333273,
+        "avg_ttfb": 0.043253366666855676
+    },
+    "pulsar.ebay.com": {
+        "requests": 1,
+        "bytes_sent": 6066,
+        "bytes_received": 4687,
+        "avg_duration": 2.184481699998287,
+        "avg_ttfb": 0.014875799999572337
+    },
+    "edgetrksvc.ebay.com": {
+        "requests": 1,
+        "bytes_sent": 6053,
+        "bytes_received": 6536,
+        "avg_duration": 2.186441300000297,
+        "avg_ttfb": 0.01757739999811747
+    },
+    "backstory.ebay.com": {
+        "requests": 2,
+        "bytes_sent": 8178,
+        "bytes_received": 31222,
+        "avg_duration": 2.240164749999167,
+        "avg_ttfb": 0.02972665000015695
+    },
+    "f-log-extension.grammarly.io": {
+        "requests": 1,
+        "bytes_sent": 5972,
+        "bytes_received": 5516,
+        "avg_duration": 2.18168340000193,
+        "avg_ttfb": 0.056820500001776963
+    },
+    "update.googleapis.com": {
+        "requests": 4,
+        "bytes_sent": 25247,
+        "bytes_received": 27907,
+        "avg_duration": 2.1271746499987785,
+        "avg_ttfb": 0.035738399998990644
+    },
+    "push.services.mozilla.com": {
+        "requests": 17,
+        "bytes_sent": 26846,
+        "bytes_received": 55839,
+        "avg_duration": 2.292134494118406,
+        "avg_ttfb": 0.045113841176584284
+    },
+    "config.extension.grammarly.com": {
+        "requests": 1,
+        "bytes_sent": 6579,
+        "bytes_received": 2408,
+        "avg_duration": 2.098059600000852,
+        "avg_ttfb": 0.016520799999852898
+    },
+    "firefox.settings.services.mozilla.com": {
+        "requests": 16,
+        "bytes_sent": 63302,
+        "bytes_received": 11568,
+        "avg_duration": 2.1165286250009103,
+        "avg_ttfb": 0.032391493750992595
+    },
+    "discord.com": {
+        "requests": 2,
+        "bytes_sent": 3429,
+        "bytes_received": 9112,
+        "avg_duration": 2.1671510500000295,
+        "avg_ttfb": 0.0497280999989016
+    },
+    "android.clients.google.com": {
+        "requests": 2,
+        "bytes_sent": 8112,
+        "bytes_received": 2495,
+        "avg_duration": 2.1103700999992725,
+        "avg_ttfb": 0.04875695000009728
+    },
+    "guc3-spclient.spotify.com": {
+        "requests": 1,
+        "bytes_sent": 4618,
+        "bytes_received": 4593,
+        "avg_duration": 2.2906973999997717,
+        "avg_ttfb": 0.03601840000192169
+    },
+    "mtalk.google.com": {
+        "requests": 3,
+        "bytes_sent": 21243,
+        "bytes_received": 6012,
+        "avg_duration": 2.185525033334367,
+        "avg_ttfb": 0.044003733334344965
+    },
+    "auth.grammarly.com": {
+        "requests": 1,
+        "bytes_sent": 6245,
+        "bytes_received": 3321,
+        "avg_duration": 2.1929936000015005,
+        "avg_ttfb": 0.07661699999880511
+    },
+    "gnar.grammarly.com": {
+        "requests": 1,
+        "bytes_sent": 4887,
+        "bytes_received": 3147,
+        "avg_duration": 2.2644552000019758,
+        "avg_ttfb": 0.0880371000021114
+    },
+    "treatment.grammarly.com": {
+        "requests": 1,
+        "bytes_sent": 8457,
+        "bytes_received": 17034,
+        "avg_duration": 2.172404299999471,
+        "avg_ttfb": 0.051330300000699935
+    },
+    "data.grammarly.com": {
+        "requests": 1,
+        "bytes_sent": 4926,
+        "bytes_received": 3240,
+        "avg_duration": 2.2594529000016337,
+        "avg_ttfb": 0.0652592000005825
+    },
+    "capi.grammarly.com": {
+        "requests": 1,
+        "bytes_sent": 5082,
+        "bytes_received": 3256,
+        "avg_duration": 2.2488744000002043,
+        "avg_ttfb": 0.07211929999903077
+    },
+    "tpc.googlesyndication.com": {
+        "requests": 2,
+        "bytes_sent": 11221,
+        "bytes_received": 5370,
+        "avg_duration": 2.173948700001347,
+        "avg_ttfb": 0.03152775000125985
+    },
+    "publickeyservice.msmt.gcp.privacysandboxservices.com": {
+        "requests": 1,
+        "bytes_sent": 6089,
+        "bytes_received": 2404,
+        "avg_duration": 2.119160099999135,
+        "avg_ttfb": 0.030570899998565437
+    },
+    "odb.outbrain.com": {
+        "requests": 1,
+        "bytes_sent": 4442,
+        "bytes_received": 1822,
+        "avg_duration": 2.0429366999997,
+        "avg_ttfb": 0.011550999999599298
+    },
+    "cdn.optimizely.com": {
+        "requests": 1,
+        "bytes_sent": 3979,
+        "bytes_received": 1824,
+        "avg_duration": 2.0737852999991446,
+        "avg_ttfb": 0.012045399998896755
+    },
+    "a.jsrdn.com": {
+        "requests": 1,
+        "bytes_sent": 3005,
+        "bytes_received": 1865,
+        "avg_duration": 2.0742208999981813,
+        "avg_ttfb": 0.011760699999285862
+    },
+    "get.s-onetag.com": {
+        "requests": 1,
+        "bytes_sent": 6142,
+        "bytes_received": 1886,
+        "avg_duration": 2.074526100001094,
+        "avg_ttfb": 0.012510500000644242
+    },
+    "widgets.outbrain.com": {
+        "requests": 1,
+        "bytes_sent": 4654,
+        "bytes_received": 1842,
+        "avg_duration": 2.161993800000346,
+        "avg_ttfb": 0.03335339999830467
+    },
+    "lightning.cnn.com": {
+        "requests": 1,
+        "bytes_sent": 6971,
+        "bytes_received": 3436,
+        "avg_duration": 2.2846489000003203,
+        "avg_ttfb": 0.01923729999907664
+    },
+    "segment-data-us-east.zqtk.net": {
+        "requests": 1,
+        "bytes_sent": 2929,
+        "bytes_received": 1899,
+        "avg_duration": 2.2109467000009317,
+        "avg_ttfb": 0.058296300001529744
+    },
+    "media.cnn.com": {
+        "requests": 1,
+        "bytes_sent": 139802,
+        "bytes_received": 21256,
+        "avg_duration": 2.3455651000003854,
+        "avg_ttfb": 0.012369899999612244
+    },
+    "healthguides.cnn.com": {
+        "requests": 1,
+        "bytes_sent": 92350,
+        "bytes_received": 3253,
+        "avg_duration": 2.1267402000012225,
+        "avg_ttfb": 0.023130800000217278
+    },
+    "fave.api.cnn.io": {
+        "requests": 1,
+        "bytes_sent": 6887,
+        "bytes_received": 2417,
+        "avg_duration": 2.0803158999988227,
+        "avg_ttfb": 0.014482700000371551
+    },
+    "www.cnn.com": {
+        "requests": 6,
+        "bytes_sent": 665056,
+        "bytes_received": 23702,
+        "avg_duration": 2.310065500000443,
+        "avg_ttfb": 0.03624126666727534
+    },
+    "default.any-any.prd.api.bolt.cnn.com": {
+        "requests": 4,
+        "bytes_sent": 70076,
+        "bytes_received": 31306,
+        "avg_duration": 2.4861334750012247,
+        "avg_ttfb": 0.026656000000912172
+    },
+    "registry.api.cnn.io": {
+        "requests": 1,
+        "bytes_sent": 6891,
+        "bytes_received": 3036,
+        "avg_duration": 3.8278113000014855,
+        "avg_ttfb": 0.0096246000030078
+    },
+    "out053a3bejgh7t0phqa0csou.litix.io": {
+        "requests": 4,
+        "bytes_sent": 23864,
+        "bytes_received": 23003,
+        "avg_duration": 2.1736038249991907,
+        "avg_ttfb": 0.053308675000153016
+    },
+    "chrome.google.com": {
+        "requests": 1,
+        "bytes_sent": 7561,
+        "bytes_received": 1865,
+        "avg_duration": 2.0961869999991904,
+        "avg_ttfb": 0.04014939999979106
+    },
+    "fly.live.cnn.us.prd.media.max.com": {
+        "requests": 55,
+        "bytes_sent": 5492150,
+        "bytes_received": 263549,
+        "avg_duration": 2.321906249090799,
+        "avg_ttfb": 0.029633663636327995
+    },
+    "google-ohttp-relay-safebrowsing.fastly-edge.com": {
+        "requests": 1,
+        "bytes_sent": 6758,
+        "bytes_received": 2862,
+        "avg_duration": 2.13200809999762,
+        "avg_ttfb": 0.029373399996984517
+    },
+    "gmss.use2.prd.api.discomax.com": {
+        "requests": 5,
+        "bytes_sent": 26605,
+        "bytes_received": 23940,
+        "avg_duration": 2.2520405200011737,
+        "avg_ttfb": 0.04989974000054644
+    },
+    "bea4.v.fwmrm.net": {
+        "requests": 6,
+        "bytes_sent": 28530,
+        "bytes_received": 19918,
+        "avg_duration": 2.148674033334222,
+        "avg_ttfb": 0.0480167166673103
+    },
+    "busy.any-any.prd.api.discomax.com": {
+        "requests": 1,
+        "bytes_sent": 12254,
+        "bytes_received": 9483,
+        "avg_duration": 2.5594928999998956,
+        "avg_ttfb": 0.035059199999523116
+    },
+    "chromewebstore.google.com": {
+        "requests": 3,
+        "bytes_sent": 204425,
+        "bytes_received": 12689,
+        "avg_duration": 2.480952133332418,
+        "avg_ttfb": 0.04559506666555535
+    },
+    "busy.any-amer.prd.api.bolt.cnn.com": {
+        "requests": 4,
+        "bytes_sent": 28837,
+        "bytes_received": 26206,
+        "avg_duration": 2.137849100000494,
+        "avg_ttfb": 0.02195582500007731
+    },
+    "edge.microsoft.com": {
+        "requests": 13,
+        "bytes_sent": 103021,
+        "bytes_received": 83009,
+        "avg_duration": 2.642030776923303,
+        "avg_ttfb": 0.02220745384637177
+    },
+    "googleads.g.doubleclick.net": {
+        "requests": 5,
+        "bytes_sent": 30889,
+        "bytes_received": 20901,
+        "avg_duration": 2.3663050799987104,
+        "avg_ttfb": 0.037296759999298955
+    },
+    "static.doubleclick.net": {
+        "requests": 1,
+        "bytes_sent": 5474,
+        "bytes_received": 2968,
+        "avg_duration": 2.1815292999999656,
+        "avg_ttfb": 0.062228199996752664
+    },
+    "www.bing.com": {
+        "requests": 22,
+        "bytes_sent": 1700668,
+        "bytes_received": 748262,
+        "avg_duration": 2.9594353727269747,
+        "avg_ttfb": 0.02579767272684628
+    },
+    "srtb.msn.com": {
+        "requests": 9,
+        "bytes_sent": 164453,
+        "bytes_received": 201951,
+        "avg_duration": 2.3373094222216526,
+        "avg_ttfb": 0.02031242222154914
+    },
+    "c.msn.com": {
+        "requests": 4,
+        "bytes_sent": 34060,
+        "bytes_received": 24788,
+        "avg_duration": 2.1884155749994534,
+        "avg_ttfb": 0.026371424999524606
+    },
+    "r.bing.com": {
+        "requests": 13,
+        "bytes_sent": 384527,
+        "bytes_received": 33499,
+        "avg_duration": 2.1678696307689487,
+        "avg_ttfb": 0.027485407692718303
+    },
+    "r.msftstatic.com": {
+        "requests": 4,
+        "bytes_sent": 26724,
+        "bytes_received": 11932,
+        "avg_duration": 2.0937642500002767,
+        "avg_ttfb": 0.017893275000460562
+    },
+    "assets.msn.com": {
+        "requests": 16,
+        "bytes_sent": 3829455,
+        "bytes_received": 241474,
+        "avg_duration": 2.7386823437504972,
+        "avg_ttfb": 0.025339162500358725
+    },
+    "browser.events.data.msn.com": {
+        "requests": 15,
+        "bytes_sent": 120819,
+        "bytes_received": 961178,
+        "avg_duration": 2.7879488533326366,
+        "avg_ttfb": 0.07223967333290299
+    },
+    "login.live.com": {
+        "requests": 4,
+        "bytes_sent": 78321,
+        "bytes_received": 17639,
+        "avg_duration": 2.2178736999994726,
+        "avg_ttfb": 0.038915874998565414
+    },
+    "th.bing.com": {
+        "requests": 15,
+        "bytes_sent": 969181,
+        "bytes_received": 117277,
+        "avg_duration": 2.4934887800004315,
+        "avg_ttfb": 0.019876346667054654
+    },
+    "ww55.affinity.net": {
+        "requests": 4,
+        "bytes_sent": 26609,
+        "bytes_received": 11022,
+        "avg_duration": 2.196159100000841,
+        "avg_ttfb": 0.04233829999975569
+    },
+    "aks-prod-eastus.access-point.cloudmessaging.edge.microsoft.com": {
+        "requests": 5,
+        "bytes_sent": 33064,
+        "bytes_received": 25923,
+        "avg_duration": 2.1979103799996667,
+        "avg_ttfb": 0.05497992000018712
+    },
+    "nav-edge.smartscreen.microsoft.com": {
+        "requests": 4,
+        "bytes_sent": 46584,
+        "bytes_received": 29975,
+        "avg_duration": 2.4424764000013965,
+        "avg_ttfb": 0.06243369999992865
+    },
+    "ww8.affinity.net": {
+        "requests": 2,
+        "bytes_sent": 6358,
+        "bytes_received": 6944,
+        "avg_duration": 2.234293750001598,
+        "avg_ttfb": 0.04718169999978272
+    },
+    "www.kqzyfj.com": {
+        "requests": 1,
+        "bytes_sent": 5964,
+        "bytes_received": 3168,
+        "avg_duration": 2.3537331000006816,
+        "avg_ttfb": 0.06445030000031693
+    },
+    "cj.dotomi.com": {
+        "requests": 1,
+        "bytes_sent": 6715,
+        "bytes_received": 3524,
+        "avg_duration": 2.3690330000026734,
+        "avg_ttfb": 0.06511350000073435
+    },
+    "tags.tiqcdn.com": {
+        "requests": 6,
+        "bytes_sent": 92424,
+        "bytes_received": 12988,
+        "avg_duration": 0.7355094833328621,
+        "avg_ttfb": 0.020107583333810908
+    },
+    "www.bingapis.com": {
+        "requests": 1,
+        "bytes_sent": 10822,
+        "bytes_received": 3206,
+        "avg_duration": 2.2256627999995544,
+        "avg_ttfb": 0.014699299998028437
+    },
+    "www.emjcd.com": {
+        "requests": 1,
+        "bytes_sent": 6943,
+        "bytes_received": 3556,
+        "avg_duration": 2.3452295000024606,
+        "avg_ttfb": 0.05349470000146539
+    },
+    "graph.microsoft.com": {
+        "requests": 1,
+        "bytes_sent": 5225,
+        "bytes_received": 4127,
+        "avg_duration": 2.433446399998502,
+        "avg_ttfb": 0.05117980000068201
+    },
+    "ntp.msn.com": {
+        "requests": 4,
+        "bytes_sent": 219845,
+        "bytes_received": 30316,
+        "avg_duration": 2.311869024999396,
+        "avg_ttfb": 0.03503210000053514
+    },
+    "uxfabric.intuitcdn.net": {
+        "requests": 2,
+        "bytes_sent": 332983,
+        "bytes_received": 6898,
+        "avg_duration": 2.4982079499986867,
+        "avg_ttfb": 0.017176499999550288
+    },
+    "img-s-msn-com.akamaized.net": {
+        "requests": 5,
+        "bytes_sent": 133096,
+        "bytes_received": 14065,
+        "avg_duration": 2.3316949200001544,
+        "avg_ttfb": 0.022229179999703773
+    },
+    "c.bing.com": {
+        "requests": 3,
+        "bytes_sent": 23796,
+        "bytes_received": 9268,
+        "avg_duration": 2.087470133335349,
+        "avg_ttfb": 0.01610886666821898
+    },
+    "api.msn.com": {
+        "requests": 5,
+        "bytes_sent": 74770,
+        "bytes_received": 25192,
+        "avg_duration": 2.173365100000228,
+        "avg_ttfb": 0.016400219999923138
+    },
+    "lib.intuitcdn.net": {
+        "requests": 2,
+        "bytes_sent": 91383,
+        "bytes_received": 4848,
+        "avg_duration": 2.145122750000155,
+        "avg_ttfb": 0.032770300000265706
+    },
+    "static.quickbooks.com": {
+        "requests": 1,
+        "bytes_sent": 6819,
+        "bytes_received": 1907,
+        "avg_duration": 2.0874759999969683,
+        "avg_ttfb": 0.017707099999825004
+    },
+    "privacy-cdn.a.intuit.com": {
+        "requests": 3,
+        "bytes_sent": 161953,
+        "bytes_received": 9882,
+        "avg_duration": 2.4439680333319607,
+        "avg_ttfb": 0.020056766665220493
+    },
+    "appfabric-preload.app.intuit.com": {
+        "requests": 1,
+        "bytes_sent": 9547,
+        "bytes_received": 4109,
+        "avg_duration": 2.2590135999998893,
+        "avg_ttfb": 0.0749175999990257
+    },
+    "assets.intuitcdn.net": {
+        "requests": 1,
+        "bytes_sent": 4219,
+        "bytes_received": 1856,
+        "avg_duration": 2.077681999999186,
+        "avg_ttfb": 0.013884600000892533
+    },
+    "js.clrt.ai": {
+        "requests": 1,
+        "bytes_sent": 35120,
+        "bytes_received": 2305,
+        "avg_duration": 2.132847299999412,
+        "avg_ttfb": 0.011744600000383798
+    },
+    "plugin.intuitcdn.net": {
+        "requests": 1,
+        "bytes_sent": 5923,
+        "bytes_received": 2516,
+        "avg_duration": 2.124710400003096,
+        "avg_ttfb": 0.012619600001926301
+    },
+    "quickbooks.intuit.com": {
+        "requests": 1,
+        "bytes_sent": 202063,
+        "bytes_received": 8538,
+        "avg_duration": 3.143928400000732,
+        "avg_ttfb": 0.03754850000041188
+    },
+    "cdn.websdk.intuit.com": {
+        "requests": 1,
+        "bytes_sent": 33372,
+        "bytes_received": 3784,
+        "avg_duration": 2.0611763000015344,
+        "avg_ttfb": 0.009929800002282718
+    },
+    "geolocation.onetrust.com": {
+        "requests": 1,
+        "bytes_sent": 4369,
+        "bytes_received": 2404,
+        "avg_duration": 2.1310865999985253,
+        "avg_ttfb": 0.015964599999279017
+    },
+    "js.partnerstack.com": {
+        "requests": 1,
+        "bytes_sent": 7879,
+        "bytes_received": 2414,
+        "avg_duration": 2.098691000002873,
+        "avg_ttfb": 0.02320809999946505
+    },
+    "znew2pz3yjx9poggn-intuitsocial.siteintercept.qualtrics.com": {
+        "requests": 1,
+        "bytes_sent": 9538,
+        "bytes_received": 2785,
+        "avg_duration": 2.118661399999837,
+        "avg_ttfb": 0.014103800000157207
+    },
+    "siteimproveanalytics.com": {
+        "requests": 1,
+        "bytes_sent": 15556,
+        "bytes_received": 2436,
+        "avg_duration": 2.160932299997512,
+        "avg_ttfb": 0.041117900000244845
+    },
+    "edge.fullstory.com": {
+        "requests": 1,
+        "bytes_sent": 9955,
+        "bytes_received": 2393,
+        "avg_duration": 2.1321939999979804,
+        "avg_ttfb": 0.041100599999481346
+    },
+    "segment.intuitcdn.net": {
+        "requests": 1,
+        "bytes_sent": 10643,
+        "bytes_received": 2474,
+        "avg_duration": 2.0902714999974705,
+        "avg_ttfb": 0.011036299998522736
+    },
+    "privacy-policy.truste.com": {
+        "requests": 1,
+        "bytes_sent": 22833,
+        "bytes_received": 2522,
+        "avg_duration": 2.1073778999998467,
+        "avg_ttfb": 0.020414800001162803
+    },
+    "2432.clrt.ai": {
+        "requests": 1,
+        "bytes_sent": 4247,
+        "bytes_received": 2986,
+        "avg_duration": 2.2824892999997246,
+        "avg_ttfb": 0.013515599999664119
+    },
+    "trinity.platform.intuit.com": {
+        "requests": 1,
+        "bytes_sent": 5910,
+        "bytes_received": 4625,
+        "avg_duration": 2.246775499999785,
+        "avg_ttfb": 0.07272499999817228
+    },
+    "adobedc.demdex.net": {
+        "requests": 1,
+        "bytes_sent": 4693,
+        "bytes_received": 4674,
+        "avg_duration": 2.2471134000006714,
+        "avg_ttfb": 0.07500720000098227
+    },
+    "turbotax.demdex.net": {
+        "requests": 1,
+        "bytes_sent": 4862,
+        "bytes_received": 1857,
+        "avg_duration": 2.2438068999981624,
+        "avg_ttfb": 0.08427209999717888
+    },
+    "rs.fullstory.com": {
+        "requests": 3,
+        "bytes_sent": 8759,
+        "bytes_received": 111458,
+        "avg_duration": 2.1795041333328604,
+        "avg_ttfb": 0.04337666666712418
+    },
+    "2796.global.siteimproveanalytics.io": {
+        "requests": 1,
+        "bytes_sent": 5079,
+        "bytes_received": 2970,
+        "avg_duration": 2.2613436999999976,
+        "avg_ttfb": 0.07532889999856707
+    },
+    "ivid-prod.intuit.com": {
+        "requests": 2,
+        "bytes_sent": 8386,
+        "bytes_received": 7474,
+        "avg_duration": 2.117573950001315,
+        "avg_ttfb": 0.023488650000217604
+    },
+    "array507.prod.do.dsp.mp.microsoft.com": {
+        "requests": 1,
+        "bytes_sent": 3061,
+        "bytes_received": 1314,
+        "avg_duration": 2.285895500001061,
+        "avg_ttfb": 0.0689051000008476
+    },
+    "rum.api.intuit.com": {
+        "requests": 1,
+        "bytes_sent": 6566,
+        "bytes_received": 17833,
+        "avg_duration": 2.399695000000065,
+        "avg_ttfb": 0.07633250000071712
+    },
+    "goto.walmart.com": {
+        "requests": 1,
+        "bytes_sent": 5532,
+        "bytes_received": 3870,
+        "avg_duration": 2.1317353999984334,
+        "avg_ttfb": 0.047638000000006286
+    },
+    "www.walmart.com": {
+        "requests": 6,
+        "bytes_sent": 366902,
+        "bytes_received": 95472,
+        "avg_duration": 2.9651668166661693,
+        "avg_ttfb": 0.02281454999865673
+    },
+    "i5.walmartimages.com": {
+        "requests": 4,
+        "bytes_sent": 120000,
+        "bytes_received": 12025,
+        "avg_duration": 2.440775800000665,
+        "avg_ttfb": 0.03124922500046523
+    },
+    "b.wal.co": {
+        "requests": 1,
+        "bytes_sent": 7020,
+        "bytes_received": 1940,
+        "avg_duration": 2.103332999999111,
+        "avg_ttfb": 0.022908499999175547
+    },
+    "beacon.walmart.com": {
+        "requests": 1,
+        "bytes_sent": 6606,
+        "bytes_received": 1792,
+        "avg_duration": 2.132232699997985,
+        "avg_ttfb": 0.0665807000004861
+    },
+    "collector-pxu6b0qd2s.px-cloud.net": {
+        "requests": 2,
+        "bytes_sent": 11713,
+        "bytes_received": 15778,
+        "avg_duration": 2.1520591999997123,
+        "avg_ttfb": 0.03679694999846106
+    },
+    "tzm.px-cloud.net": {
+        "requests": 1,
+        "bytes_sent": 3570,
+        "bytes_received": 2518,
+        "avg_duration": 2.572279299998627,
+        "avg_ttfb": 0.017695099999400554
+    },
+    "b.www.walmart.com": {
+        "requests": 4,
+        "bytes_sent": 38287,
+        "bytes_received": 122983,
+        "avg_duration": 2.5572984499995073,
+        "avg_ttfb": 0.04672489999938989
+    },
+    "storage.live.com": {
+        "requests": 3,
+        "bytes_sent": 30027,
+        "bytes_received": 8112,
+        "avg_duration": 2.252216466666141,
+        "avg_ttfb": 0.030315333333419403
+    },
+    "xpaywalletcdn-prod.azureedge.net": {
+        "requests": 1,
+        "bytes_sent": 5550,
+        "bytes_received": 3012,
+        "avg_duration": 2.2281702000000223,
+        "avg_ttfb": 0.04382949999853736
+    },
+    "array516.prod.do.dsp.mp.microsoft.com": {
+        "requests": 1,
+        "bytes_sent": 3061,
+        "bytes_received": 1359,
+        "avg_duration": 2.280660699998407,
+        "avg_ttfb": 0.06592069999896921
+    },
+    "beacons2.gvt2.com": {
+        "requests": 1,
+        "bytes_sent": 7046,
+        "bytes_received": 3583,
+        "avg_duration": 2.4870654000005743,
+        "avg_ttfb": 0.15293179999935091
+    },
+    "functional.events.data.microsoft.com": {
+        "requests": 12,
+        "bytes_sent": 83534,
+        "bytes_received": 78362,
+        "avg_duration": 2.3642208583338893,
+        "avg_ttfb": 0.04914945833327996
+    },
+    "google.com": {
+        "requests": 2,
+        "bytes_sent": 11355,
+        "bytes_received": 5593,
+        "avg_duration": 2.1225994500000525,
+        "avg_ttfb": 0.024365499999476015
+    },
+    "cookie-matching.mediarithmics.com": {
+        "requests": 1,
+        "bytes_sent": 6154,
+        "bytes_received": 2811,
+        "avg_duration": 3.4254577000028803,
+        "avg_ttfb": 0.16683800000100746
+    },
+    "beacons.gcp.gvt2.com": {
+        "requests": 4,
+        "bytes_sent": 15283,
+        "bytes_received": 11579,
+        "avg_duration": 2.182393050000428,
+        "avg_ttfb": 0.047894524998810084
+    },
+    "ping-meta-prd.jwpltx.com": {
+        "requests": 3,
+        "bytes_sent": 19210,
+        "bytes_received": 7758,
+        "avg_duration": 2.1281925999998443,
+        "avg_ttfb": 0.024683799999669038
+    },
+    "beacons5.gvt3.com": {
+        "requests": 1,
+        "bytes_sent": 7045,
+        "bytes_received": 2644,
+        "avg_duration": 2.181686100000661,
+        "avg_ttfb": 0.04090200000064215
+    },
+    "www.msn.com": {
+        "requests": 4,
+        "bytes_sent": 151308,
+        "bytes_received": 39686,
+        "avg_duration": 2.1769502999995893,
+        "avg_ttfb": 0.025649249999332824
+    },
+    "ecn.dev.virtualearth.net": {
+        "requests": 4,
+        "bytes_sent": 1013320,
+        "bytes_received": 11749,
+        "avg_duration": 2.1805315500005236,
+        "avg_ttfb": 0.018090549999215
+    },
+    "beacons3.gvt2.com": {
+        "requests": 1,
+        "bytes_sent": 5744,
+        "bytes_received": 2570,
+        "avg_duration": 2.189251299998432,
+        "avg_ttfb": 0.057350399998540524
+    },
+    "a248.e.akamai.net": {
+        "requests": 1,
+        "bytes_sent": 4561,
+        "bytes_received": 3355,
+        "avg_duration": 0.06943269999828772,
+        "avg_ttfb": 0.016868099999555852
+    },
+    "v20.events.data.microsoft.com": {
+        "requests": 1,
+        "bytes_sent": 4894,
+        "bytes_received": 15980,
+        "avg_duration": 3.252134999998816,
+        "avg_ttfb": 0.07985439999902155
+    },
+    "ecn.api.tiles.virtualearth.net": {
+        "requests": 3,
+        "bytes_sent": 18958,
+        "bytes_received": 8297,
+        "avg_duration": 0.851647400000123,
+        "avg_ttfb": 0.05422413333387036
+    },
+    "v10.events.data.microsoft.com": {
+        "requests": 1,
+        "bytes_sent": 4783,
+        "bytes_received": 13996,
+        "avg_duration": 2.7948900000010326,
+        "avg_ttfb": 0.08028279999780352
+    },
+    "btloader.com": {
+        "requests": 3,
+        "bytes_sent": 287272,
+        "bytes_received": 6494,
+        "avg_duration": 2.13083270000061,
+        "avg_ttfb": 0.025594566667374846
+    },
+    "msft-ssp.adnxs.com": {
+        "requests": 1,
+        "bytes_sent": 41942,
+        "bytes_received": 9853,
+        "avg_duration": 2.6037572999994154,
+        "avg_ttfb": 0.06817769999906886
+    },
+    "t.ssl.ak.dynamic.tiles.virtualearth.net": {
+        "requests": 4,
+        "bytes_sent": 589452,
+        "bytes_received": 26798,
+        "avg_duration": 2.2165339000011954,
+        "avg_ttfb": 0.014471125000454776
+    },
+    "t.ssl.ak.tiles.virtualearth.net": {
+        "requests": 1,
+        "bytes_sent": 6890,
+        "bytes_received": 1885,
+        "avg_duration": 2.120927300002222,
+        "avg_ttfb": 0.044103300002461765
+    },
+    "main.vscode-cdn.net": {
+        "requests": 1,
+        "bytes_sent": 68704,
+        "bytes_received": 2805,
+        "avg_duration": 2.1517907999987074,
+        "avg_ttfb": 0.038190499999473104
+    },
+    "acdn.adnxs.com": {
+        "requests": 2,
+        "bytes_sent": 4732,
+        "bytes_received": 7268,
+        "avg_duration": 2.0772668500012514,
+        "avg_ttfb": 0.019427600000199163
+    },
+    "n-0-nycx.ad-m.net": {
+        "requests": 1,
+        "bytes_sent": 4191,
+        "bytes_received": 3218,
+        "avg_duration": 2.156705099998362,
+        "avg_ttfb": 0.019704999998793937
+    },
+    "n-7-nycx.ad-m.net": {
+        "requests": 1,
+        "bytes_sent": 4193,
+        "bytes_received": 3218,
+        "avg_duration": 2.160661899997649,
+        "avg_ttfb": 0.023271799997019116
+    },
+    "api.btloader.com": {
+        "requests": 2,
+        "bytes_sent": 6406,
+        "bytes_received": 8013,
+        "avg_duration": 2.1487649499995314,
+        "avg_ttfb": 0.02940139999918756
+    },
+    "s.update.ib.adnxs.net": {
+        "requests": 1,
+        "bytes_sent": 5529,
+        "bytes_received": 3088,
+        "avg_duration": 2.2251531000001705,
+        "avg_ttfb": 0.062029400000028545
+    },
+    "aax-events-cell01-cf.us-east.3px.axp.amazon-adsystem.com": {
+        "requests": 3,
+        "bytes_sent": 23793,
+        "bytes_received": 9182,
+        "avg_duration": 2.199644400000883,
+        "avg_ttfb": 0.026381166667609552
+    },
+    "1x1.a-mo.net": {
+        "requests": 3,
+        "bytes_sent": 6311,
+        "bytes_received": 12115,
+        "avg_duration": 2.1986136333325703,
+        "avg_ttfb": 0.0635130666657157
+    },
+    "thaka.bing.com": {
+        "requests": 1,
+        "bytes_sent": 7644,
+        "bytes_received": 4207,
+        "avg_duration": 2.0870367999996233,
+        "avg_ttfb": 0.02270729999872856
+    },
+    "msft-ssp-useast.adnxs.com": {
+        "requests": 3,
+        "bytes_sent": 15607,
+        "bytes_received": 46120,
+        "avg_duration": 2.2482319333333485,
+        "avg_ttfb": 0.05554433333236375
+    },
+    "mozilla.cloudflare-dns.com": {
+        "requests": 1,
+        "bytes_sent": 4522,
+        "bytes_received": 2408,
+        "avg_duration": 2.1070724000019254,
+        "avg_ttfb": 0.028197899999213405
+    },
+    "ad-delivery.net": {
+        "requests": 2,
+        "bytes_sent": 8229,
+        "bytes_received": 5374,
+        "avg_duration": 2.8396955999996862,
+        "avg_ttfb": 0.03251934999934747
+    },
+    "monetengine-d.openx.net": {
+        "requests": 2,
+        "bytes_sent": 6871,
+        "bytes_received": 13924,
+        "avg_duration": 2.1341385499999888,
+        "avg_ttfb": 0.0373668499996711
+    },
+    "log.sptag2.com": {
+        "requests": 1,
+        "bytes_sent": 4423,
+        "bytes_received": 3988,
+        "avg_duration": 2.1427308000020275,
+        "avg_ttfb": 0.02478250000058324
+    },
+    "ox-rtb-us-east1.openx.net": {
+        "requests": 1,
+        "bytes_sent": 5354,
+        "bytes_received": 5928,
+        "avg_duration": 2.154038299999229,
+        "avg_ttfb": 0.04931139999825973
+    },
+    "sync.teads.tv": {
+        "requests": 1,
+        "bytes_sent": 5558,
+        "bytes_received": 2567,
+        "avg_duration": 2.2532520000022487,
+        "avg_ttfb": 0.056331499999942025
+    },
+    "cs.adingo.jp": {
+        "requests": 1,
+        "bytes_sent": 6460,
+        "bytes_received": 2384,
+        "avg_duration": 2.118884800001979,
+        "avg_ttfb": 0.047491199999058153
+    },
+    "anp.mxptint.net": {
+        "requests": 1,
+        "bytes_sent": 5095,
+        "bytes_received": 2444,
+        "avg_duration": 2.268938299999718,
+        "avg_ttfb": 0.07412680000197724
+    },
+    "cr-p11.ladsp.com": {
+        "requests": 1,
+        "bytes_sent": 6726,
+        "bytes_received": 2468,
+        "avg_duration": 2.3931376000000455,
+        "avg_ttfb": 0.02446070000223699
+    },
+    "ad.360yield.com": {
+        "requests": 1,
+        "bytes_sent": 6017,
+        "bytes_received": 2848,
+        "avg_duration": 2.4220822999996017,
+        "avg_ttfb": 0.06858040000224719
+    },
+    "sync.ad-stir.com": {
+        "requests": 1,
+        "bytes_sent": 3160,
+        "bytes_received": 2487,
+        "avg_duration": 2.6334887000011804,
+        "avg_ttfb": 0.17197200000009616
+    },
+    "sync.adotmob.com": {
+        "requests": 1,
+        "bytes_sent": 4635,
+        "bytes_received": 3150,
+        "avg_duration": 2.673824900000909,
+        "avg_ttfb": 0.15002829999866663
+    },
+    "sync.sxp.smartclip.net": {
+        "requests": 1,
+        "bytes_sent": 6160,
+        "bytes_received": 2935,
+        "avg_duration": 2.863014300000941,
+        "avg_ttfb": 0.05653890000030515
+    },
+    "gocm.c.appier.net": {
+        "requests": 1,
+        "bytes_sent": 5627,
+        "bytes_received": 2542,
+        "avg_duration": 2.879427100000612,
+        "avg_ttfb": 0.24438040000313777
+    },
+    "cr-pall.ladsp.jp": {
+        "requests": 1,
+        "bytes_sent": 4787,
+        "bytes_received": 2744,
+        "avg_duration": 3.1050419000021066,
+        "avg_ttfb": 0.16913580000255024
+    },
+    "gcdn.2mdn.net": {
+        "requests": 1,
+        "bytes_sent": 7915,
+        "bytes_received": 2900,
+        "avg_duration": 2.136469799999759,
+        "avg_ttfb": 0.029015200001595076
+    },
+    "fav.a-mo.net": {
+        "requests": 1,
+        "bytes_sent": 3902,
+        "bytes_received": 3167,
+        "avg_duration": 2.1854180000009364,
+        "avg_ttfb": 0.04091269999844371
+    },
+    "fav-cdn.a-mo.net": {
+        "requests": 4,
+        "bytes_sent": 647290,
+        "bytes_received": 11974,
+        "avg_duration": 2.5832191999988936,
+        "avg_ttfb": 0.025427350000427396
+    },
+    "rewards.bing.com": {
+        "requests": 1,
+        "bytes_sent": 9287,
+        "bytes_received": 4425,
+        "avg_duration": 2.3045916999981273,
+        "avg_ttfb": 0.04512059999979101
+    },
+    "4f0d4e9d600079be4417aae23e741e1d.safeframe.googlesyndication.com": {
+        "requests": 3,
+        "bytes_sent": 17855,
+        "bytes_received": 6410,
+        "avg_duration": 1.430282433332953,
+        "avg_ttfb": 0.02497633333405247
+    },
+    "bam.nr-data.net": {
+        "requests": 3,
+        "bytes_sent": 9984,
+        "bytes_received": 27538,
+        "avg_duration": 0.7884247999997266,
+        "avg_ttfb": 0.03501876666632597
+    },
+    "sync.graph.bluecava.com": {
+        "requests": 1,
+        "bytes_sent": 5986,
+        "bytes_received": 2825,
+        "avg_duration": 2.185427399999753,
+        "avg_ttfb": 0.04279500000120606
+    },
+    "pixel.adsafeprotected.com": {
+        "requests": 3,
+        "bytes_sent": 16023,
+        "bytes_received": 11461,
+        "avg_duration": 2.5395970333338482,
+        "avg_ttfb": 0.08137373333374853
+    },
+    "id5-sync.com": {
+        "requests": 2,
+        "bytes_sent": 7580,
+        "bytes_received": 6556,
+        "avg_duration": 2.5003830999994534,
+        "avg_ttfb": 0.1352033000002848
+    },
+    "geo.privacymanager.io": {
+        "requests": 1,
+        "bytes_sent": 7390,
+        "bytes_received": 2495,
+        "avg_duration": 2.168688200003089,
+        "avg_ttfb": 0.018142000000807457
+    },
+    "lb.eu-1-id5-sync.com": {
+        "requests": 1,
+        "bytes_sent": 3740,
+        "bytes_received": 2422,
+        "avg_duration": 2.5847795000008773,
+        "avg_ttfb": 0.14423600000009174
+    },
+    "go.microsoft.com": {
+        "requests": 3,
+        "bytes_sent": 20656,
+        "bytes_received": 6535,
+        "avg_duration": 2.089167466664852,
+        "avg_ttfb": 0.01670206666555411
+    },
+    "assets.connatix.com": {
+        "requests": 1,
+        "bytes_sent": 5112,
+        "bytes_received": 2357,
+        "avg_duration": 2.1441066000006685,
+        "avg_ttfb": 0.015133699998841621
+    },
+    "www.facebook.com": {
+        "requests": 1,
+        "bytes_sent": 8110,
+        "bytes_received": 2668,
+        "avg_duration": 2.1607974999969883,
+        "avg_ttfb": 0.010577599998214282
+    },
+    "loadus.exelator.com": {
+        "requests": 1,
+        "bytes_sent": 5462,
+        "bytes_received": 2601,
+        "avg_duration": 2.361624099998153,
+        "avg_ttfb": 0.06566290000046138
+    },
+    "mwzeom.zeotap.com": {
+        "requests": 1,
+        "bytes_sent": 4612,
+        "bytes_received": 2616,
+        "avg_duration": 2.217867800001841,
+        "avg_ttfb": 0.006570600002305582
+    },
+    "activity.windows.com": {
+        "requests": 1,
+        "bytes_sent": 9045,
+        "bytes_received": 5756,
+        "avg_duration": 2.762826499998482,
+        "avg_ttfb": 0.08812559999933
+    },
+    "live.us.shoplive.cloud": {
+        "requests": 1,
+        "bytes_sent": 370805,
+        "bytes_received": 4923,
+        "avg_duration": 2.7294470999986515,
+        "avg_ttfb": 0.03257329999905778
+    }
+}

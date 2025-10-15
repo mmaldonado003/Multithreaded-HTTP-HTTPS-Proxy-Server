@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:41:47",
+    "Incoming header": "CONNECT image6.pubmatic.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: image6.pubmatic.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4943,
+    "Bytes received": 2611,
+    "Request duration (s)": 2.2378898999995727,
+    "TTFB (s)": 0.05544190000000526
+}

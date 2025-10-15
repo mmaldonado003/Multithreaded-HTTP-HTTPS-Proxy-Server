@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:41:15",
+    "Incoming header": "CONNECT spclient.wg.spotify.com:443 HTTP/1.1\r\nHost: spclient.wg.spotify.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.139 Spotify/1.2.74.477 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4476,
+    "Bytes received": 4371,
+    "Request duration (s)": 2.664320600000792,
+    "TTFB (s)": 0.04493160000129137
+}

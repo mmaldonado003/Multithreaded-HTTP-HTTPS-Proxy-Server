@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:42:09",
+    "Incoming header": "CONNECT fonts.gstatic.com:443 HTTP/1.1\r\nHost: fonts.gstatic.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 5049,
+    "Bytes received": 1865,
+    "Request duration (s)": 2.091921100000036,
+    "TTFB (s)": 0.028988399997615488
+}

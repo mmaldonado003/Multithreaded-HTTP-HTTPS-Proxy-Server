@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:41:19",
+    "Incoming header": "CONNECT sb.scorecardresearch.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: sb.scorecardresearch.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 62295,
+    "Bytes received": 2512,
+    "Request duration (s)": 2.384472800000367,
+    "TTFB (s)": 0.012276800000108778
+}

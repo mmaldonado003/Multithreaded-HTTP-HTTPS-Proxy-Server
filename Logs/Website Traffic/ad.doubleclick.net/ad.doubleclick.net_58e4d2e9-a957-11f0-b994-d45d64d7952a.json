@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-14 18:41:46",
+    "Incoming header": "CONNECT ad.doubleclick.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: ad.doubleclick.net:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 44756,
+    "Bytes received": 3563,
+    "Request duration (s)": 2.202597399998922,
+    "TTFB (s)": 0.03359120000095572
+}
