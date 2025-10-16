@@ -3,36 +3,13 @@
 **ALL FILES PERTAINING TO THE PROJECT CAN BE VIEWED ABOVE.**
 
 ## Objective
+Network monitoring and security tool that handles concurrent 
+connections, enforces security policies (domain blocking, rate limiting), 
+and generates detailed analytics for IT operations and capacity planning.
 
-The proxy handles multiple simultaneous connections, enforces rate limits, blocks specific domains, and records detailed statistics such as request count, bytes sent/received, TTFB (time to first byte), and overall request durations. In addition, the objective is to design and code the proxy from scratch, including multithreaded request handling, HTTPS tunneling, rate limiting, blocking, and logging. The goal overall was to create a fully functional proxy server with detailed performance insights.
+Demonstrates practical application of network programming, security policy 
+enforcement, and business intelligence for enterprise IT infrastructure.
 
-## Setup
-
-### Dependencies:
-- Python 3.x
-- **Optional (for charts)** — matplotlib:
-```bash
-  pip install matplotlib
-```
-
-### Start the Proxy:
-- **Without logging:**
-```bash
-  python3 main.py [PORT]
-```
-
-- **With logging** (creates detailed logs and charts in `Logs/`):
-```bash
-  python3 main.py [PORT] Log
-```
-
-### Folder Structure:
-- `main.py` — entry point
-- `proxy.py` — handles client connections
-- `handlers.py` — HTTP/HTTPS request handling
-- `logging_utils.py` — logs requests, blocked requests, summaries, and charts
-- `utils.py` — shared constants and helper functions
-  
 ## Key Features
 | Feature                  | Description                                        | Business Impact                                         |
 |---------------------------|---------------------------------------------------|--------------------------------------------------------|
@@ -42,14 +19,6 @@ The proxy handles multiple simultaneous connections, enforces rate limits, block
 | Domain Blocking           | Wildcard pattern matching for content filtering  | Enforces organizational policies, blocks websites, and ensures regulatory compliance |
 | Rate Limiting             | Per-IP throttling (e.g., 100 req/10s) prevents abuse | Mitigates DDoS attacks, ensures fair resource allocation, and protects service quality |
 | Performance Analytics     | Automated reports with charts and summaries      | Supports stakeholder reporting, operational insights, and infrastructure optimization |
-
-
-## Tested With / Usage
-
-- **Browsers:** Microsoft Edge, Chrome, Firefox
-- **Local machine configuration (Windows):** added proxy in network settings using the port specified at launch
-- Works for both HTTP and HTTPS traffic
-- Supports multiple simultaneous clients
 
 ## Example Logs
 
@@ -98,6 +67,40 @@ Top 5 domains by request count:
 - Shows the 5 most requested domains by number of requests.
 ![Top Domains Chart](Logs/Summary%20Logs/top_domains.png)
 - Generated only if `Log` option is enabled and matplotlib is installed.
+
+## Tested With / Usage
+
+- **Browsers:** Microsoft Edge, Chrome, Firefox
+- **Local machine configuration (Windows):** added proxy in network settings using the port specified at launch
+- Works for both HTTP and HTTPS traffic
+- Supports multiple simultaneous clients
+
+## Setup
+
+### Dependencies:
+- Python 3.x
+- **Optional (for charts)** — matplotlib:
+```bash
+  pip install matplotlib
+```
+
+### Start the Proxy:
+- **Without logging:**
+```bash
+  python3 main.py [PORT]
+```
+
+- **With logging** (creates detailed logs and charts in `Logs/`):
+```bash
+  python3 main.py [PORT] Log
+```
+
+### Folder Structure:
+- `main.py` — entry point
+- `proxy.py` — handles client connections
+- `handlers.py` — HTTP/HTTPS request handling
+- `logging_utils.py` — logs requests, blocked requests, summaries, and charts
+- `utils.py` — shared constants and helper functions
 
 ## Technical Analysis
 
