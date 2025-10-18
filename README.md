@@ -64,7 +64,7 @@ Top 5 domains by request count:
 
 ### Database Analytics (`Logs/Database/`):
 SQLite database with exportable CSV data
-![CSV Export Example](Logs/Database/Traffic Export Database.png)
+![CSV Export Example](Logs/Database/Traffic%20Export%20Database.png)
 
 ## Example Chart
 
