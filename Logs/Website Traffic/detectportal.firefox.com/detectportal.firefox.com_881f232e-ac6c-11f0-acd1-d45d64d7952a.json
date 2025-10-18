@@ -1,0 +1,11 @@
+{
+    "Timestamp": "2025-10-18 16:50:58",
+    "Incoming header": "GET http://detectportal.firefox.com/canonical.html HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: keep-alive\r\n\r\n",
+    "Modified header": "GET /canonical.html HTTP/1.1\r\nHost: detectportal.firefox.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nCache-Control: no-cache\r\nPragma: no-cache\r\nConnection: close\r\n\r\n",
+    "Server response received": "HTTP/1.1 200 OK\r\nServer: nginx\r\nContent-Length: 90\r\nVia: 1.1 google\r\nDate: Sat, 18 Oct 2025 20:24:23 GMT\r\nAge: 5196\r\nContent-Type: text/html\r\nCache-Control: public,must-revalidate,max-age=0,s-maxage=3600\r\nConnection: close\r\n\r\n<meta http-equiv=\"refresh\" content=\"0;url=https://support.mozilla.org/kb/captive-portal\"/>",
+    "Proxy response sent": "HTTP/1.1 200 OK",
+    "Bytes sent": 316,
+    "Bytes received": 334,
+    "Request duration (s)": 0.09489819998270832,
+    "TTFB (s)": 0.09482189998379909
+}

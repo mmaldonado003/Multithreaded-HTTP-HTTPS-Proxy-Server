@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:54:57",
+    "Incoming header": "CONNECT login.live.com:443 HTTP/1.1\r\nHost: login.live.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 21042,
+    "Bytes received": 7693,
+    "Request duration (s)": 2.260527499980526,
+    "TTFB (s)": 0.03863880000426434
+}

@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:52",
+    "Incoming header": "CONNECT slscr.update.microsoft.com:443 HTTP/1.1\r\nHost: slscr.update.microsoft.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 3096,
+    "Bytes received": 774,
+    "Request duration (s)": 2.173097199993208,
+    "TTFB (s)": 0.025403300009202212
+}

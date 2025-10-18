@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:52:07",
+    "Incoming header": "CONNECT images-na.ssl-images-amazon.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: images-na.ssl-images-amazon.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 937219,
+    "Bytes received": 9489,
+    "Request duration (s)": 4.019621899991762,
+    "TTFB (s)": 0.01854079999611713
+}

@@ -1,0 +1,11 @@
+{
+    "Timestamp": "2025-10-18 16:51:55",
+    "Incoming header": "GET http://au.download.windowsupdate.com/d/msdownload/update/software/defu/2025/10/am_delta_patch_1.439.272.0_70a1338f84d92e17531b515676bb66313a3eca07.exe HTTP/1.1\r\nProxy-Connection: Keep-Alive\r\nAccept: */*\r\nRange: bytes=0-1\r\nUser-Agent: Microsoft-Delivery-Optimization/10.0\r\nMS-CV: B6grHEyKGUWmjEjO.2.0.0.2.2.3.1.1.1\r\nContent-Length: 0\r\nHost: au.download.windowsupdate.com\r\n\r\n",
+    "Modified header": "GET /d/msdownload/update/software/defu/2025/10/am_delta_patch_1.439.272.0_70a1338f84d92e17531b515676bb66313a3eca07.exe HTTP/1.1\r\nProxy-Connection: Keep-Alive\r\nAccept: */*\r\nRange: bytes=0-1\r\nUser-Agent: Microsoft-Delivery-Optimization/10.0\r\nMS-CV: B6grHEyKGUWmjEjO.2.0.0.2.2.3.1.1.1\r\nContent-Length: 0\r\nHost: au.download.windowsupdate.com\r\nConnection: close\r\n\r\n",
+    "Server response received": "HTTP/1.1 206 Partial Content\r\nConnection: close\r\nContent-Length: 2\r\nCache-Control: public,max-age=172800\r\nContent-Type: application/octet-stream\r\nLast-Modified: Sat, 18 Oct 2025 19:11:01 GMT\r\nETag: \"801016f16240dc1:0\"\r\nAccept-Ranges: bytes\r\nDate: Sat, 18 Oct 2025 21:51:56 GMT\r\nVia: 1.1 varnish\r\nAge: 8297\r\nX-Served-By: cache-bur-kbur8200148-BUR\r\nX-Cache: HIT\r\nX-Cache-Hits: 36\r\nX-Timer: S1760824317.648552,VS0,VE0\r\nX-CID: 3\r\nX-CCC: US\r\nContent-Range: bytes 0-1/526800\r\n\r\nMZ",
+    "Proxy response sent": "HTTP/1.1 200 OK",
+    "Bytes sent": 474,
+    "Bytes received": 377,
+    "Request duration (s)": 0.12736689997836947,
+    "TTFB (s)": 0.1273133999784477
+}

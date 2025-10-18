@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:52:37",
+    "Incoming header": "CONNECT gcp.amer-free.prd.media.max.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: gcp.amer-free.prd.media.max.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 151724,
+    "Bytes received": 2938,
+    "Request duration (s)": 2.2394257000123616,
+    "TTFB (s)": 0.023465000005671754
+}

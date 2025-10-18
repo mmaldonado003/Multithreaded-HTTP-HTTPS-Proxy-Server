@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:02",
+    "Incoming header": "CONNECT 21pearl.residentportal.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: 21pearl.residentportal.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 34271,
+    "Bytes received": 1817,
+    "Request duration (s)": 2.524178599996958,
+    "TTFB (s)": 0.010233600012725219
+}

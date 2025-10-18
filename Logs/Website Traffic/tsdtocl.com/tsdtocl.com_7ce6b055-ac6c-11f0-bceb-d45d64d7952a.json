@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:50:40",
+    "Incoming header": "CONNECT tsdtocl.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: tsdtocl.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 6593,
+    "Bytes received": 2413,
+    "Request duration (s)": 2.083022099977825,
+    "TTFB (s)": 0.015348599990829825
+}

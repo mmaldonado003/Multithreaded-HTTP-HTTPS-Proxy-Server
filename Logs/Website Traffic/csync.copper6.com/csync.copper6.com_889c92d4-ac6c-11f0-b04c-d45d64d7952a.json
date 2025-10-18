@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:50:59",
+    "Incoming header": "CONNECT csync.copper6.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: csync.copper6.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 0,
+    "Bytes received": 1902,
+    "Request duration (s)": 1.0681765000044834,
+    "TTFB (s)": 0.05218060000333935
+}

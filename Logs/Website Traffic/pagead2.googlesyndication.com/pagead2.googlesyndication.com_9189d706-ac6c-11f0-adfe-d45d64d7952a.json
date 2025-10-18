@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:14",
+    "Incoming header": "CONNECT pagead2.googlesyndication.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: pagead2.googlesyndication.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 399789,
+    "Bytes received": 3495,
+    "Request duration (s)": 2.3828834999876563,
+    "TTFB (s)": 0.022149700002046302
+}

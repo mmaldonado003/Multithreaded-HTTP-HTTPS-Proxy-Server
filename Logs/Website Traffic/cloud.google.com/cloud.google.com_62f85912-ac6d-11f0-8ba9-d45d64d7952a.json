@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:57:06",
+    "Incoming header": "CONNECT cloud.google.com:443 HTTP/1.1\r\nHost: cloud.google.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 285691,
+    "Bytes received": 119924,
+    "Request duration (s)": 3.5276931000116747,
+    "TTFB (s)": 0.027888700016774237
+}

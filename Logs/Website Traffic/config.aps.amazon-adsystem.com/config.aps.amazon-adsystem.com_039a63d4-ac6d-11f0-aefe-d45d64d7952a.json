@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:54:26",
+    "Incoming header": "CONNECT config.aps.amazon-adsystem.com:443 HTTP/1.1\r\nHost: config.aps.amazon-adsystem.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 7036,
+    "Bytes received": 2457,
+    "Request duration (s)": 2.1136793999758083,
+    "TTFB (s)": 0.03247629999532364
+}

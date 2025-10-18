@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:32",
+    "Incoming header": "CONNECT www.google.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.google.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 3634,
+    "Bytes received": 3034,
+    "Request duration (s)": 2.1568962000019383,
+    "TTFB (s)": 0.049145700002554804
+}

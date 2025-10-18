@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:53:21",
+    "Incoming header": "CONNECT usersync.samplicio.us:443 HTTP/1.1\r\nHost: usersync.samplicio.us:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4863,
+    "Bytes received": 2420,
+    "Request duration (s)": 2.21299599998747,
+    "TTFB (s)": 0.05922679998911917
+}

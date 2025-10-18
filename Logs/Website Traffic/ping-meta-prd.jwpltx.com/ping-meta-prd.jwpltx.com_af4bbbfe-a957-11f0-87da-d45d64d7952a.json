@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:44:11",
-    "Incoming header": "CONNECT ping-meta-prd.jwpltx.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: ping-meta-prd.jwpltx.com:443\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 6404,
-    "Bytes received": 2586,
-    "Request duration (s)": 2.1384638999988965,
-    "TTFB (s)": 0.04301549999945564
-}

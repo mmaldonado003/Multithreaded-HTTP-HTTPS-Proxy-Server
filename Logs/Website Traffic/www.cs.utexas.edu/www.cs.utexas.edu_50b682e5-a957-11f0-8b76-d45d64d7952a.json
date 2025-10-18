@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:41:32",
-    "Incoming header": "CONNECT www.cs.utexas.edu:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.cs.utexas.edu:443\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 4310,
-    "Bytes received": 8582,
-    "Request duration (s)": 0.10851220000040485,
-    "TTFB (s)": 0.022833799997897586
-}

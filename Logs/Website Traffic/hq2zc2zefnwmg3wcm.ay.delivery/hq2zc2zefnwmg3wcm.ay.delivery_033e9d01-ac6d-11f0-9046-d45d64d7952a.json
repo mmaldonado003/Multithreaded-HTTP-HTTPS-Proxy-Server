@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:54:25",
+    "Incoming header": "CONNECT hq2zc2zefnwmg3wcm.ay.delivery:443 HTTP/1.1\r\nHost: hq2zc2zefnwmg3wcm.ay.delivery:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 3784,
+    "Bytes received": 1867,
+    "Request duration (s)": 2.1064465999952517,
+    "TTFB (s)": 0.04520409999531694
+}

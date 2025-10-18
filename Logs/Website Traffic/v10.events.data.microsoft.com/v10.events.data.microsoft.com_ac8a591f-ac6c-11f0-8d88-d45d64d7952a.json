@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:59",
+    "Incoming header": "CONNECT v10.events.data.microsoft.com:443 HTTP/1.1\r\nHost: v10.events.data.microsoft.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4678,
+    "Bytes received": 3263,
+    "Request duration (s)": 2.290157999988878,
+    "TTFB (s)": 0.052376699983142316
+}

@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:53:26",
+    "Incoming header": "CONNECT play.googleapis.com:443 HTTP/1.1\r\nHost: play.googleapis.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4407,
+    "Bytes received": 1390,
+    "Request duration (s)": 2.1597451999841724,
+    "TTFB (s)": 0.023140600009355694
+}

@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:41:18",
-    "Incoming header": "CONNECT edgedl.me.gvt1.com:443 HTTP/1.1\r\nHost: edgedl.me.gvt1.com:443\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 6760,
-    "Bytes received": 681,
-    "Request duration (s)": 2.84424140000192,
-    "TTFB (s)": 0.020345900000393158
-}

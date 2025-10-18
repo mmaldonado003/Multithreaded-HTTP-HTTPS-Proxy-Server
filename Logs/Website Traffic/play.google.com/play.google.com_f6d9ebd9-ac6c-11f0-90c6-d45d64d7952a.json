@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:54:04",
+    "Incoming header": "CONNECT play.google.com:443 HTTP/1.1\r\nHost: play.google.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 2707,
+    "Bytes received": 4795,
+    "Request duration (s)": 2.1398475999885704,
+    "TTFB (s)": 0.03391430000192486
+}

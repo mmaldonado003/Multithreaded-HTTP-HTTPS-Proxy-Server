@@ -18,6 +18,9 @@ import threading
 import utils
 from handlers import handle_http, handle_https
 from logging_utils import log_blocked_request
+from db_logger import DatabaseLogger
+
+db_logger = DatabaseLogger()
 
 # Blocked domains (wildcard supported)
 BLOCKLIST = ["*.youtube.com", "*.ytimg.com", "*.googlevideo.com"]
@@ -29,7 +32,6 @@ request_counter_lock = threading.Lock()
 def parse_server_info(client_data_bytes):
     """
     Parse the request from the client to extract hostname, server port, and method.
-    Returns (hostname, port, is_connect, valid) or (None, None, None, False) if invalid.
     """
     try:
         client_text = client_data_bytes.decode('utf-8', 'ignore')
@@ -90,6 +92,12 @@ def check_rate_limit(client_ip):
         # Remove timestamps outside the current window
         request_counter[client_ip] = [t for t in request_counter[client_ip] if now - t < window]
         if len(request_counter[client_ip]) >= limit:
+            # Log rate limit violation to database only if logging enabled
+            if utils.LOG_FLAG:
+                try:
+                    db_logger.log_rate_limit_violation(client_ip, len(request_counter[client_ip]))
+                except Exception as e:
+                    print(f"Database logging error (rate limit): {e}")
             return False
 
         request_counter[client_ip].append(now)
@@ -139,6 +147,11 @@ def proxy(client_socket, client_ip):
                     log_blocked_request(hostname, client_ip_str)
                 except Exception as e:
                     print(f"Failed to log blocked request: {e}")
+                # Log to database only if logging enabled
+                try:
+                    db_logger.log_blocked_request(client_ip_str, hostname)
+                except Exception as e:
+                    print(f"Database logging error (blocked): {e}")
             send_error(client_socket, 403, "Forbidden")
             return
 

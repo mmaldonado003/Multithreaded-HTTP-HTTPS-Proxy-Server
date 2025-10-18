@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:42:14",
-    "Incoming header": "CONNECT bea4.v.fwmrm.net:443 HTTP/1.1\r\nHost: bea4.v.fwmrm.net:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 4755,
-    "Bytes received": 3237,
-    "Request duration (s)": 2.181668699999136,
-    "TTFB (s)": 0.05891660000270349
-}

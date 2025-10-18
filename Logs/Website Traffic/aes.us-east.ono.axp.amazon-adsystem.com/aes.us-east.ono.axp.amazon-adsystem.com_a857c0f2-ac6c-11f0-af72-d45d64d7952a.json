@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:52",
+    "Incoming header": "CONNECT aes.us-east.ono.axp.amazon-adsystem.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: aes.us-east.ono.axp.amazon-adsystem.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4687,
+    "Bytes received": 3140,
+    "Request duration (s)": 2.204882699996233,
+    "TTFB (s)": 0.05234480000217445
+}

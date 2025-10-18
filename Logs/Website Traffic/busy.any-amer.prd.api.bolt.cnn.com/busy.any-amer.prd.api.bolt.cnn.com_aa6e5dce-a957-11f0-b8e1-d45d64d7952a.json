@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:44:03",
-    "Incoming header": "CONNECT busy.any-amer.prd.api.bolt.cnn.com:443 HTTP/1.1\r\nHost: busy.any-amer.prd.api.bolt.cnn.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 688,
-    "Bytes received": 7916,
-    "Request duration (s)": 2.1196343999981764,
-    "TTFB (s)": 0.02580169999782811
-}

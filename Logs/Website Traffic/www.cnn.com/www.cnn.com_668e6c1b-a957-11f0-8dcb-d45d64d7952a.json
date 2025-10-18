@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:42:09",
-    "Incoming header": "CONNECT www.cnn.com:443 HTTP/1.1\r\nHost: www.cnn.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 654757,
-    "Bytes received": 6507,
-    "Request duration (s)": 3.09604980000222,
-    "TTFB (s)": 0.03454000000056112
-}

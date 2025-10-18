@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:56:47",
+    "Incoming header": "CONNECT prod-streaming-video-msn-com.akamaized.net:443 HTTP/1.1\r\nHost: prod-streaming-video-msn-com.akamaized.net:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 94213,
+    "Bytes received": 3800,
+    "Request duration (s)": 0.15071139999781735,
+    "TTFB (s)": 0.03359989999444224
+}

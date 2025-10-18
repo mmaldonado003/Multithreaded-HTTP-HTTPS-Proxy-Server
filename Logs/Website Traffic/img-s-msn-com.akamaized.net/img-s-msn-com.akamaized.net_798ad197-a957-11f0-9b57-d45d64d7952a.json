@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:42:41",
-    "Incoming header": "CONNECT img-s-msn-com.akamaized.net:443 HTTP/1.1\r\nHost: img-s-msn-com.akamaized.net:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 3878,
-    "Bytes received": 1913,
-    "Request duration (s)": 2.0644195999993826,
-    "TTFB (s)": 0.010612300000502728
-}

@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:41:47",
-    "Incoming header": "CONNECT odr.mookie1.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: odr.mookie1.com:443\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 7401,
-    "Bytes received": 2589,
-    "Request duration (s)": 2.1663044999986596,
-    "TTFB (s)": 0.028829399998357985
-}

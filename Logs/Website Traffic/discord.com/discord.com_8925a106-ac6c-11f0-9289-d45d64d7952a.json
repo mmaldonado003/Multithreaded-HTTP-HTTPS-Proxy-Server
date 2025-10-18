@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:00",
+    "Incoming header": "CONNECT discord.com:443 HTTP/1.1\r\nHost: discord.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) discord/1.0.9212 Chrome/134.0.6998.205 Electron/35.3.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 1693,
+    "Bytes received": 3796,
+    "Request duration (s)": 2.1406500000157394,
+    "TTFB (s)": 0.03026790000149049
+}

@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:53:40",
+    "Incoming header": "CONNECT live.rezync.com:443 HTTP/1.1\r\nHost: live.rezync.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 7560,
+    "Bytes received": 2615,
+    "Request duration (s)": 2.1700203999935184,
+    "TTFB (s)": 0.011782699992181733
+}

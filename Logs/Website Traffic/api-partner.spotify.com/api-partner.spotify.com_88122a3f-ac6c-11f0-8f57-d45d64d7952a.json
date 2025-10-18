@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:50:58",
+    "Incoming header": "CONNECT api-partner.spotify.com:443 HTTP/1.1\r\nHost: api-partner.spotify.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.7258.139 Spotify/1.2.74.477 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 2916,
+    "Bytes received": 3745,
+    "Request duration (s)": 2.2659931000089273,
+    "TTFB (s)": 0.04998760001035407
+}

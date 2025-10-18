@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:54:27",
+    "Incoming header": "CONNECT id5-sync.com:443 HTTP/1.1\r\nHost: id5-sync.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 2227,
+    "Bytes received": 3284,
+    "Request duration (s)": 2.568106999999145,
+    "TTFB (s)": 0.14144449998275377
+}

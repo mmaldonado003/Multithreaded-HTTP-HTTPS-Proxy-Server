@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:44:03",
-    "Incoming header": "CONNECT edge.microsoft.com:443 HTTP/1.1\r\nHost: edge.microsoft.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 1050,
-    "Bytes received": 8086,
-    "Request duration (s)": 3.0828451000015775,
-    "TTFB (s)": 0.04502630000206409
-}

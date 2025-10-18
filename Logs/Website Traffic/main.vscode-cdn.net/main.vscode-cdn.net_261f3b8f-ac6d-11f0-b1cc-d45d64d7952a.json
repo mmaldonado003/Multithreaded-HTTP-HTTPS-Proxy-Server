@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:55:23",
+    "Incoming header": "CONNECT main.vscode-cdn.net:443 HTTP/1.1\r\nHost: main.vscode-cdn.net:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.105.1 Chrome/138.0.7204.251 Electron/37.6.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 68704,
+    "Bytes received": 3475,
+    "Request duration (s)": 2.1381004999857396,
+    "TTFB (s)": 0.025013299979036674
+}

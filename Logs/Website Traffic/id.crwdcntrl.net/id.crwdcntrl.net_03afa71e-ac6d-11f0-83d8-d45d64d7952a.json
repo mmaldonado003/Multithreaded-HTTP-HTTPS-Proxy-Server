@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:54:26",
+    "Incoming header": "CONNECT id.crwdcntrl.net:443 HTTP/1.1\r\nHost: id.crwdcntrl.net:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 5447,
+    "Bytes received": 2575,
+    "Request duration (s)": 2.2183137999963947,
+    "TTFB (s)": 0.04396999999880791
+}

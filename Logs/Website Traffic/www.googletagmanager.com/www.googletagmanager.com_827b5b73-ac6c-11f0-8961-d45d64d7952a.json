@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:50:49",
+    "Incoming header": "CONNECT www.googletagmanager.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: www.googletagmanager.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 268541,
+    "Bytes received": 3113,
+    "Request duration (s)": 2.8587665999948513,
+    "TTFB (s)": 0.04016460001002997
+}

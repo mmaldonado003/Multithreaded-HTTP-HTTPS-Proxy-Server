@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:56:55",
+    "Incoming header": "CONNECT amzn-adsystem.com:443 HTTP/1.1\r\nHost: amzn-adsystem.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 6063,
+    "Bytes received": 2546,
+    "Request duration (s)": 2.2575823000224773,
+    "TTFB (s)": 0.062338000017916784
+}

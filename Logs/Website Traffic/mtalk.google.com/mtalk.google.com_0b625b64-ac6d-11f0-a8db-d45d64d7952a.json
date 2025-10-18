@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:54:39",
+    "Incoming header": "CONNECT mtalk.google.com:443 HTTP/1.1\r\nHost: mtalk.google.com:443\r\nProxy-Connection: keep-alive\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 7082,
+    "Bytes received": 2105,
+    "Request duration (s)": 2.21701039999607,
+    "TTFB (s)": 0.04512120000435971
+}

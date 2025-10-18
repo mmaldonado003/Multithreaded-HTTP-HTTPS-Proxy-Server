@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:52:30",
+    "Incoming header": "CONNECT i.clean.gg:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: i.clean.gg:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 5616,
+    "Bytes received": 3240,
+    "Request duration (s)": 2.273894400015706,
+    "TTFB (s)": 0.033333900006255135
+}

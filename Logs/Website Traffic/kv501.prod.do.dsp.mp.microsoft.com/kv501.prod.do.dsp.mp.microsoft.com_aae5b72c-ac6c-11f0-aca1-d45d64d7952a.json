@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:57",
+    "Incoming header": "CONNECT kv501.prod.do.dsp.mp.microsoft.com:443 HTTP/1.1\r\nHost: kv501.prod.do.dsp.mp.microsoft.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 7620,
+    "Bytes received": 684,
+    "Request duration (s)": 2.08642740000505,
+    "TTFB (s)": 0.011554500000784174
+}

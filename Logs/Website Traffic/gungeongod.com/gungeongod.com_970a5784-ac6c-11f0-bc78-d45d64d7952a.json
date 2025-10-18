@@ -1,0 +1,11 @@
+{
+    "Timestamp": "2025-10-18 16:51:23",
+    "Incoming header": "GET http://gungeongod.com/assets/scripts/main.js HTTP/1.1\r\nHost: gungeongod.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nConnection: keep-alive\r\nReferer: http://gungeongod.com/\r\nCookie: _ga=GA1.2.116355875.1759620751; _ga_0G48VCBGFD=GS2.2.s1760418112$o10$g0$t1760418112$j60$l0$h0\r\nPriority: u=2\r\n\r\n",
+    "Modified header": "GET /assets/scripts/main.js HTTP/1.1\r\nHost: gungeongod.com\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nAccept: */*\r\nAccept-Language: en-US,en;q=0.5\r\nAccept-Encoding: gzip, deflate\r\nConnection: close\r\nReferer: http://gungeongod.com/\r\nCookie: _ga=GA1.2.116355875.1759620751; _ga_0G48VCBGFD=GS2.2.s1760418112$o10$g0$t1760418112$j60$l0$h0\r\nPriority: u=2\r\n\r\n",
+    "Server response received": "HTTP/1.1 200 OK\r\ndate: Sat, 18 Oct 2025 21:51:24 GMT\r\nexpires: Sat, 18 Oct 2025 22:01:24 GMT\r\ncache-control: public, max-age=600\r\netag: \"OOAZZw\"\r\nx-cloud-trace-context: 5deb47829608333dfa2571b1753e469c\r\ncontent-type: text/plain\r\ncontent-encoding: gzip\r\nserver: Google Frontend\r\nConnection: close\r\nTransfer-Encoding: chunked\r\n\r\n212\r\n\u001f\b\u0000\u0000\u0000\u0000\u0000\u0002Tn0\u0010\u0015Vd[ZH\u070aK L\u001a\u001d9\u03b2+|;3.\ba)r2yf8h\\=\u000f`T\u001ets\u0010l`e\u0002$iZ\u0007\u0014>D[`?G~\u02df\u0503A\u001b;;F\r3\u001b6,\u0018!\u001e\n\u000f\u0014y+X\u000b\u001bZJ\u0f8f#\u0007=xk+OG\u07f1w1m+3B=r/\u012a\u001f\u001d\\\u0016l\u0448V\u001bp#\u0006c%(T*g\u0005`\u0002\u0014=\u001d5>wi.35\u007fV}\u0010\u0005cC*\u0011IUw>C!e\u000e\u001at;Pv-X$[1tfj2=wO\u000b~\u0108W-(f\u001b\u001aev\u0004gKk%j\u001es4B4\bu{lg.%Tipl+*9s?.\u001d\f\t.HJKfwx;(V\u0016\b9J\u0002y@'ESEEyiXsG\u04b4\u057d_\u0387\u0014\u0006N\u0017p\r]\u0018T4o?}q\u001ahC\u0019\u0003\u0015}3DATI\u00111\u0014/\u0005\\S\u007f&P\"v\u0003\b\\f&Mo\u0000\u0000\u0000\r\na\r\n\u0003\u0000.\u0014p{\u0004\u0000\u0000\r\n0\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 OK",
+    "Bytes sent": 884,
+    "Bytes received": 430,
+    "Request duration (s)": 0.20570910000242293,
+    "TTFB (s)": 0.20550229999935254
+}

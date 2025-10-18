@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:50:41",
+    "Incoming header": "CONNECT s0.2mdn.net:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: s0.2mdn.net:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 22485,
+    "Bytes received": 2386,
+    "Request duration (s)": 2.211128800001461,
+    "TTFB (s)": 0.06265120001626201
+}

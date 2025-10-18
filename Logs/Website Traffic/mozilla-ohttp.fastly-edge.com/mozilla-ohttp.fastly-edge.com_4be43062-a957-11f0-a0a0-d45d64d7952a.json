@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:41:24",
-    "Incoming header": "CONNECT mozilla-ohttp.fastly-edge.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: mozilla-ohttp.fastly-edge.com:443\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 5313,
-    "Bytes received": 2919,
-    "Request duration (s)": 2.189636299997801,
-    "TTFB (s)": 0.010672500000509899
-}

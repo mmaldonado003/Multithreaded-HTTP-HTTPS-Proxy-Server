@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:52:40",
+    "Incoming header": "CONNECT db.onlinewebfonts.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: db.onlinewebfonts.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4462,
+    "Bytes received": 1173,
+    "Request duration (s)": 2.184189999999944,
+    "TTFB (s)": 0.015049800014821813
+}

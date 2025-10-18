@@ -1,10 +1,10 @@
-Total requests handled: 1202
-Total bytes sent: 73139325
-Total bytes received: 9988055
+Total requests handled: 2118
+Total bytes sent: 154905684
+Total bytes received: 16713880
 
 Top 5 domains by request count:
-1. fly.live.cnn.us.prd.media.max.com - Requests: 55, Avg Duration: 2.322s, Bytes Sent: 5492150, Bytes Received: 263549
-2. s.amazon-adsystem.com - Requests: 28, Avg Duration: 2.420s, Bytes Sent: 187808, Bytes Received: 100542
-3. m.media-amazon.com - Requests: 27, Avg Duration: 2.567s, Bytes Sent: 19834935, Bytes Received: 155551
-4. unagi.amazon.com - Requests: 27, Avg Duration: 2.450s, Bytes Sent: 109544, Bytes Received: 2197401
-5. unagi-na.amazon.com - Requests: 25, Avg Duration: 2.285s, Bytes Sent: 104939, Bytes Received: 121837
+1. www.google.com - Requests: 52, Avg Duration: 2.480s, Bytes Sent: 2927190, Bytes Received: 275002
+2. unagi.amazon.com - Requests: 47, Avg Duration: 2.408s, Bytes Sent: 196490, Bytes Received: 3231271
+3. download.windowsupdate.com - Requests: 41, Avg Duration: 0.041s, Bytes Sent: 318790, Bytes Received: 11808
+4. unagi-na.amazon.com - Requests: 38, Avg Duration: 2.308s, Bytes Sent: 221678, Bytes Received: 218702
+5. s.amazon-adsystem.com - Requests: 32, Avg Duration: 2.425s, Bytes Sent: 241316, Bytes Received: 123745

@@ -55,6 +55,17 @@ def main():
             except Exception:
                 pass
         os.makedirs("Logs", exist_ok=True)
+        
+        # Delete and recreate database for fresh session
+        db_path = os.path.join("Logs", "Database", "proxy_traffic.db")
+        if os.path.exists(db_path):
+            try:
+                os.remove(db_path)
+            except Exception:
+                pass
+        # Recreate database (will create Logs/Database/ folder automatically)
+        from database_setup import create_database
+        create_database()
 
     # Create the main listening socket
     proxy_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)

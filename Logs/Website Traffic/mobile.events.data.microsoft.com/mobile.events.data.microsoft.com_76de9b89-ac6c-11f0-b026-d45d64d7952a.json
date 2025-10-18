@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:50:29",
+    "Incoming header": "CONNECT mobile.events.data.microsoft.com:443 HTTP/1.1\r\nHost: mobile.events.data.microsoft.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4914,
+    "Bytes received": 3422,
+    "Request duration (s)": 2.3999705000023823,
+    "TTFB (s)": 0.04603779999888502
+}

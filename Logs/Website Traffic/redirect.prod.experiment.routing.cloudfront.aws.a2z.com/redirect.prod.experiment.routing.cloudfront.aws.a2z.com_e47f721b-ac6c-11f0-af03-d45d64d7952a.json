@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:53:33",
+    "Incoming header": "CONNECT redirect.prod.experiment.routing.cloudfront.aws.a2z.com:443 HTTP/1.1\r\nHost: redirect.prod.experiment.routing.cloudfront.aws.a2z.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 4883,
+    "Bytes received": 2585,
+    "Request duration (s)": 2.1492536999867298,
+    "TTFB (s)": 0.03734730000724085
+}

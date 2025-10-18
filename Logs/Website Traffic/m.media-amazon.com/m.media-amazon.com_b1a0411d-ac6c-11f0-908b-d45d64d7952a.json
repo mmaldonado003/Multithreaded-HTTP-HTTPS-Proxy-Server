@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:52:08",
+    "Incoming header": "CONNECT m.media-amazon.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: m.media-amazon.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 2978348,
+    "Bytes received": 18697,
+    "Request duration (s)": 5.0873068000073545,
+    "TTFB (s)": 0.015620999998645857
+}

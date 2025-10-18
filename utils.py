@@ -47,7 +47,7 @@ def update_domain_stats(hostname, bytes_sent, bytes_received, duration, ttfb=Non
 def modify_headers(request_str, hostname=None):
     """
     Modify HTTP headers for proxying:
-    - Ensures 'Connection: close' is set
+    - Makes sure 'Connection: close' is set
     - Strips scheme and host from absolute URLs in request line
     """
     lines = request_str.split("\r\n")

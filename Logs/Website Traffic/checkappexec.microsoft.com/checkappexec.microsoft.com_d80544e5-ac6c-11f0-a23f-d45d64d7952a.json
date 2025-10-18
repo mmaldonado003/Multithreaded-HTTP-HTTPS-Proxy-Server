@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:53:12",
+    "Incoming header": "CONNECT checkappexec.microsoft.com:443 HTTP/1.0\r\nHost: checkappexec.microsoft.com:443\r\nContent-Length: 0\r\nProxy-Connection: Keep-Alive\r\nPragma: no-cache\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 8885,
+    "Bytes received": 2232,
+    "Request duration (s)": 2.229540400003316,
+    "TTFB (s)": 0.0547495000064373
+}

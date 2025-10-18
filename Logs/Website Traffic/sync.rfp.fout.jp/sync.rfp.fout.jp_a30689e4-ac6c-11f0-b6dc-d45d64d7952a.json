@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:44",
+    "Incoming header": "CONNECT sync.rfp.fout.jp:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: sync.rfp.fout.jp:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 5531,
+    "Bytes received": 2467,
+    "Request duration (s)": 2.272448900010204,
+    "TTFB (s)": 0.03205600002547726
+}

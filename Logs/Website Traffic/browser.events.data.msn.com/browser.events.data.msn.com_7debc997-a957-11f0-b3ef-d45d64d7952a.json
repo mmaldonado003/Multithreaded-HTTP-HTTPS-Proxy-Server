@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:42:48",
-    "Incoming header": "CONNECT browser.events.data.msn.com:443 HTTP/1.1\r\nHost: browser.events.data.msn.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 7309,
-    "Bytes received": 17143,
-    "Request duration (s)": 2.4254908000002615,
-    "TTFB (s)": 0.08637330000055954
-}

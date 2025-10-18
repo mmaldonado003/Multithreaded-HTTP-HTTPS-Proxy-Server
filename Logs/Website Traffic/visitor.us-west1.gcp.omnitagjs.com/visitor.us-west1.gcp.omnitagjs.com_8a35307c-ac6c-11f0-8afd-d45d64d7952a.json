@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:02",
+    "Incoming header": "CONNECT visitor.us-west1.gcp.omnitagjs.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: visitor.us-west1.gcp.omnitagjs.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 5979,
+    "Bytes received": 2191,
+    "Request duration (s)": 2.6928055999742355,
+    "TTFB (s)": 0.0871286999899894
+}

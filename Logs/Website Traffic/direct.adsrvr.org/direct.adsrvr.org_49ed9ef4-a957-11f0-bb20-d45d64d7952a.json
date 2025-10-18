@@ -1,9 +1,0 @@
-{
-    "Timestamp": "2025-10-14 18:41:21",
-    "Incoming header": "CONNECT direct.adsrvr.org:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:143.0) Gecko/20100101 Firefox/143.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: direct.adsrvr.org:443\r\n\r\n",
-    "Proxy response sent": "HTTP/1.1 200 Connection Established",
-    "Bytes sent": 10306,
-    "Bytes received": 9515,
-    "Request duration (s)": 2.448719500000152,
-    "TTFB (s)": 0.07491639999716426
-}

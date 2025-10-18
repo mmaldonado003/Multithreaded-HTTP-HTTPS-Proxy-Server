@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:52:30",
+    "Incoming header": "CONNECT wmff.warnermediacdn.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: wmff.warnermediacdn.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 7053,
+    "Bytes received": 2611,
+    "Request duration (s)": 2.24937060000957,
+    "TTFB (s)": 0.018165200017392635
+}

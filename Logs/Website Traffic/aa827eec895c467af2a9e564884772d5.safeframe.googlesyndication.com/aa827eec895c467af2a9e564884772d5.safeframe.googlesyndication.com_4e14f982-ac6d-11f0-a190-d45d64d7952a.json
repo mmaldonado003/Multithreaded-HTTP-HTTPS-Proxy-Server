@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:56:30",
+    "Incoming header": "CONNECT aa827eec895c467af2a9e564884772d5.safeframe.googlesyndication.com:443 HTTP/1.1\r\nHost: aa827eec895c467af2a9e564884772d5.safeframe.googlesyndication.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 9204,
+    "Bytes received": 2653,
+    "Request duration (s)": 2.179938500019489,
+    "TTFB (s)": 0.04381890001241118
+}

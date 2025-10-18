@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:55:05",
+    "Incoming header": "CONNECT turbotax.intuit.com:443 HTTP/1.1\r\nHost: turbotax.intuit.com:443\r\nProxy-Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36 Edg/141.0.0.0\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 1335489,
+    "Bytes received": 317495,
+    "Request duration (s)": 5.283806599996751,
+    "TTFB (s)": 0.025293200014857575
+}

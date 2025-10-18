@@ -8,7 +8,8 @@ Handlers provide:
 - handle_http: handles standard HTTP requests
 - handle_https: handles HTTPS CONNECT tunneling
 - tunnel: utility function to relay data between sockets
-- Updates statistics and optionally logs requests
+- Updates statistics for JSON logs (if enabled)
+- Database is updated (if logging enabled)
 """
 
 import socket
@@ -17,6 +18,9 @@ import time
 import utils
 from logging_utils import log_request
 from utils import modify_headers, BUFFER_SIZE, update_domain_stats
+from db_logger import DatabaseLogger
+
+db_logger = DatabaseLogger()
 
 def tunnel(from_socket, to_socket):
     """
@@ -68,7 +72,7 @@ def handle_http(client_socket, client_data, server_ip, server_port, hostname, st
                         ttfb = time.perf_counter() - start_time
                         ttfb_recorded = True
 
-                    # Keep partial server response for logging
+                    # Keep server response for logging
                     if len(server_response) < 65536:
                         need = 65536 - len(server_response)
                         server_response.extend(chunk[:need])
@@ -86,6 +90,23 @@ def handle_http(client_socket, client_data, server_ip, server_port, hostname, st
                     bytes_received=len(client_data.encode('utf-8')),
                     duration=duration,
                     ttfb=ttfb)
+
+        # Log to database only if logging enabled
+        if utils.LOG_FLAG:
+            try:
+                db_logger.log_request(
+                    source_ip=client_socket.getpeername()[0],
+                    dest_host=hostname,
+                    dest_port=server_port,
+                    protocol='HTTP',
+                    bytes_sent=total_bytes_sent,
+                    bytes_received=len(client_data.encode('utf-8')),
+                    duration=duration,
+                    ttfb=ttfb if ttfb else 0,
+                    method='GET'
+                )
+            except Exception as e:
+                print(f"Database logging error: {e}")
 
         # Update statistics
         update_domain_stats(hostname, total_bytes_sent, len(client_data.encode('utf-8')), duration, ttfb)
@@ -132,7 +153,23 @@ def handle_https(client_socket, server_ip, server_port, hostname, client_data, s
                         duration=duration,
                         ttfb=ttfb)
 
-            # Update stats
+            # Log to database only if logging enabled
+            if utils.LOG_FLAG:
+                try:
+                    db_logger.log_request(
+                        source_ip=client_socket.getpeername()[0],
+                        dest_host=hostname,
+                        dest_port=server_port,
+                        protocol='HTTPS',
+                        bytes_sent=total_bytes_sent,
+                        bytes_received=total_bytes_received,
+                        duration=duration,
+                        ttfb=ttfb if ttfb else 0,
+                        method='CONNECT'
+                    )
+                except Exception as e:
+                    print(f"Database logging error: {e}")
+
             update_domain_stats(hostname, total_bytes_sent, total_bytes_received, duration, ttfb)
             
         client_socket.close()

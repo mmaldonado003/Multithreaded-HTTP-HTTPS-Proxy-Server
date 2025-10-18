@@ -1,0 +1,9 @@
+{
+    "Timestamp": "2025-10-18 16:51:40",
+    "Incoming header": "CONNECT fls-na.amazon.com:443 HTTP/1.1\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:144.0) Gecko/20100101 Firefox/144.0\r\nProxy-Connection: keep-alive\r\nConnection: keep-alive\r\nHost: fls-na.amazon.com:443\r\n\r\n",
+    "Proxy response sent": "HTTP/1.1 200 Connection Established",
+    "Bytes sent": 442,
+    "Bytes received": 3691,
+    "Request duration (s)": 0.2791811999923084,
+    "TTFB (s)": 0.041835200012428686
+}
