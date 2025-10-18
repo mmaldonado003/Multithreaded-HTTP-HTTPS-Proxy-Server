@@ -19,10 +19,11 @@ enforcement, and business intelligence for enterprise IT infrastructure.
 | Domain Blocking           | Wildcard pattern matching for content filtering  | Enforces organizational policies, blocks websites, and ensures regulatory compliance |
 | Rate Limiting             | Per-IP throttling (e.g., 100 req/10s) prevents abuse | Mitigates DDoS attacks, ensures fair resource allocation, and protects service quality |
 | Performance Analytics     | Automated reports with charts and summaries      | Supports stakeholder reporting, operational insights, and infrastructure optimization |
+| SQLite Database Backend   | Persistent storage of all traffic data for historical analysis | Enables trend analysis, complex queries, and data export for business intelligence tools |
 
 ## Example Logs
 
-### Traffic Log (`Logs/Website Traffic/'):
+### Traffic Log (`Logs/Website Traffic/`):
 Per-domain request logs (JSON)
 ```json
 {
@@ -49,17 +50,21 @@ Security audit logs
 ### Summary Report (`Logs/Summary Logs/summary_report.txt`):
 Analytics reports and charts
 ```
-Total requests handled: 1202
-Total bytes sent: 73139325
-Total bytes received: 9988055
+Total requests handled: 2118
+Total bytes sent: 154905684
+Total bytes received: 16713880
 
 Top 5 domains by request count:
-1. fly.live.cnn.us.prd.media.max.com - Requests: 55, Avg Duration: 2.322s, Bytes Sent: 5492150, Bytes Received: 263549
-2. s.amazon-adsystem.com - Requests: 28, Avg Duration: 2.420s, Bytes Sent: 187808, Bytes Received: 100542
-3. m.media-amazon.com - Requests: 27, Avg Duration: 2.567s, Bytes Sent: 19834935, Bytes Received: 155551
-4. unagi.amazon.com - Requests: 27, Avg Duration: 2.450s, Bytes Sent: 109544, Bytes Received: 2197401
-5. unagi-na.amazon.com - Requests: 25, Avg Duration: 2.285s, Bytes Sent: 104939, Bytes Received: 121837
+1. www.google.com - Requests: 52, Avg Duration: 2.480s, Bytes Sent: 2927190, Bytes Received: 275002
+2. unagi.amazon.com - Requests: 47, Avg Duration: 2.408s, Bytes Sent: 196490, Bytes Received: 3231271
+3. download.windowsupdate.com - Requests: 41, Avg Duration: 0.041s, Bytes Sent: 318790, Bytes Received: 11808
+4. unagi-na.amazon.com - Requests: 38, Avg Duration: 2.308s, Bytes Sent: 221678, Bytes Received: 218702
+5. s.amazon-adsystem.com - Requests: 32, Avg Duration: 2.425s, Bytes Sent: 241316, Bytes Received: 123745
 ```
+
+### Database Analytics (`Logs/Database/`):
+SQLite database with exportable CSV data
+![CSV Export Example](Logs/Database/Traffic Export Database.png)
 
 ## Example Chart
 
@@ -81,18 +86,18 @@ Top 5 domains by request count:
 - Python 3.x
 - **Optional (for charts)** — matplotlib:
 ```bash
-  pip install matplotlib
+pip install matplotlib
 ```
 
 ### Start the Proxy:
 - **Without logging:**
 ```bash
-  python3 main.py [PORT]
+python3 main.py [PORT]
 ```
 
-- **With logging** (creates detailed logs and charts in `Logs/`):
+- **With logging** (creates detailed logs, database, and charts in `Logs/`):
 ```bash
-  python3 main.py [PORT] Log
+python3 main.py [PORT] Log
 ```
 
 ### Folder Structure:
@@ -101,6 +106,26 @@ Top 5 domains by request count:
 - `handlers.py` — HTTP/HTTPS request handling
 - `logging_utils.py` — logs requests, blocked requests, summaries, and charts
 - `utils.py` — shared constants and helper functions
+- `db_logger.py` — SQLite database logging functions
+- `database_setup.py` — database schema initialization
+- `analytics.py` — query and export database analytics
+
+### Database Analytics:
+
+**View traffic statistics:**
+```bash
+python3 analytics.py
+```
+
+**Export data to CSV:**
+```bash
+python3 analytics.py
+# Choose 'y' when prompted to export
+```
+
+**Output locations:**
+- Database: `Logs/Database/proxy_traffic.db`
+- CSV Export: `Logs/Database/traffic_export.csv`
 
 ## Technical Analysis
 
@@ -108,6 +133,7 @@ Top 5 domains by request count:
 - **Load:** Identifies which domains consume the most bandwidth or requests.
 - **Blocking Efficacy:** Confirms blocked domains are logged and prevented from connecting.
 - **Rate Limiting:** Observes how rapid requests from a single IP are handled with 429 responses.
+- **Database Queries:** Supports complex analytics queries for historical trend analysis and business intelligence.
 
 ## Technical Skills Developed
 
@@ -115,9 +141,11 @@ Top 5 domains by request count:
 - HTTP/HTTPS request parsing and header modification
 - Rate limiting and domain blocking techniques
 - JSON logging and automated summary generation
+- SQLite database design and integration
 - Data visualization using Python (matplotlib)
+- CSV export for business intelligence tools
 - Practical proxy configuration on local machines
 
 ## Technical Details
-Python 3.x | socket, threading, time | HTTP/HTTPS protocol handling | Local machine proxy configuration
+Python 3.x | socket, threading, time, sqlite3 | HTTP/HTTPS protocol handling | SQLite database backend | Local machine proxy configuration
 
