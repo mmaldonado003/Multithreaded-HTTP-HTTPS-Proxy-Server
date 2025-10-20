@@ -8,7 +8,7 @@ connections, enforces security policies (domain blocking, rate limiting),
 and generates detailed analytics for IT operations and capacity planning.
 
 Demonstrates practical application of network programming, security policy 
-enforcement, and business intelligence for enterprise IT infrastructure.
+enforcement, and business intelligence.
 
 ## Key Features
 | Feature                  | Description                                        | Business Impact                                         |
@@ -63,15 +63,16 @@ Top 5 domains by request count:
 ```
 
 ### Database Analytics (`Logs/Database/`):
-SQLite database with exportable CSV data in Excel Sheet
+SQLite database with exportable CSV data
 ![CSV Export Example](Logs/Database/Traffic%20Export%20Database.png)
 
 ## Example Chart
 
 ### Top Domains Bar Chart:
-- Shows the 5 most requested domains by number of requests.
+Shows the 5 most requested domains by number of requests.
 ![Top Domains Chart](Logs/Summary%20Logs/top_domains.png)
-- Generated only if `Log` option is enabled and matplotlib is installed.
+
+Generated only if `Log` option is enabled and matplotlib is installed.
 
 ## Tested With / Usage
 
@@ -82,6 +83,12 @@ SQLite database with exportable CSV data in Excel Sheet
 
 ## Setup
 
+### Clone the Repository:
+```bash
+git clone https://github.com/mmaldonado003/Multithreaded-HTTP-HTTPS-Proxy-Server.git
+cd Multithreaded-HTTP-HTTPS-Proxy-Server
+```
+
 ### Dependencies:
 - Python 3.x
 - **Optional (for charts)** — matplotlib:
@@ -90,14 +97,20 @@ pip install matplotlib
 ```
 
 ### Start the Proxy:
-- **Without logging:**
+
+**Without logging:**
 ```bash
 python3 main.py [PORT]
 ```
 
-- **With logging** (creates detailed logs, database, and charts in `Logs/`):
+**With logging** (creates detailed logs, database, and charts in `Logs/`):
 ```bash
 python3 main.py [PORT] Log
+```
+
+**Example:**
+```bash
+python3 main.py 8080 Log
 ```
 
 ### Folder Structure:
@@ -129,23 +142,11 @@ python3 analytics.py
 
 ## Technical Analysis
 
-- **Performance:** Measures request duration and TTFB per domain.
-- **Load:** Identifies which domains consume the most bandwidth or requests.
-- **Blocking Efficacy:** Confirms blocked domains are logged and prevented from connecting.
-- **Rate Limiting:** Observes how rapid requests from a single IP are handled with 429 responses.
-- **Database Queries:** Supports complex analytics queries for historical trend analysis and business intelligence.
-
-## Technical Skills Developed
-
-- Multithreaded socket programming in Python
-- HTTP/HTTPS request parsing and header modification
-- Rate limiting and domain blocking techniques
-- JSON logging and automated summary generation
-- SQLite database design and integration
-- Data visualization using Python (matplotlib)
-- CSV export for business intelligence tools
-- Practical proxy configuration on local machines
+- **Performance:** Measures request duration and TTFB per domain
+- **Load:** Identifies which domains consume the most bandwidth or requests
+- **Blocking Efficacy:** Confirms blocked domains are logged and prevented from connecting
+- **Rate Limiting:** Observes how rapid requests from a single IP are handled with 429 responses
+- **Database Queries:** Supports complex analytics queries for historical trend analysis and business intelligence
 
 ## Technical Details
 Python 3.x | socket, threading, time, sqlite3 | HTTP/HTTPS protocol handling | SQLite database backend | Local machine proxy configuration
-
