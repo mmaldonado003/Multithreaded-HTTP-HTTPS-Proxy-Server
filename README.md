@@ -66,9 +66,7 @@ Top 5 domains by request count:
 SQLite database with exportable CSV data
 ![CSV Export Example](Logs/Database/Traffic%20Export%20Database.png)
 
-## Example Chart
-
-### Top Domains Bar Chart:
+## Top Domains Bar Chart:
 Shows the 5 most requested domains by number of requests.
 ![Top Domains Chart](Logs/Summary%20Logs/top_domains.png)
 
