@@ -144,7 +144,7 @@ python3 analytics.py
 - **Load:** Identifies which domains consume the most bandwidth or requests
 - **Blocking Efficacy:** Confirms blocked domains are logged and prevented from connecting
 - **Rate Limiting:** Observes how rapid requests from a single IP are handled with 429 responses
-- **Database Queries:** Supports complex analytics queries for historical trend analysis and business intelligence
+- **Database Queries:** Supports complex analytics queries for historical trend analysis 
 
 ## Technical Details
 Python 3.x | socket, threading, time, sqlite3 | HTTP/HTTPS protocol handling | SQLite database backend | Local machine proxy configuration
