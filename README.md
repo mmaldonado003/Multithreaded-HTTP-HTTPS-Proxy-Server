@@ -8,7 +8,7 @@ connections, enforces security policies (domain blocking, rate limiting),
 and generates detailed analytics for IT operations and capacity planning.
 
 Demonstrates practical application of network programming, security policy 
-enforcement, and business intelligence.
+enforcement, and analytics.
 
 ## Key Features
 | Feature                  | Description                                        | Business Impact                                         |
