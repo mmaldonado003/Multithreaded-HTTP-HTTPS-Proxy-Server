@@ -142,7 +142,7 @@ python3 analytics.py
 
 - **Performance:** Measures request duration and TTFB per domain
 - **Load:** Identifies which domains consume the most bandwidth or requests
-- **Blocking Efficacy:** Confirms blocked domains are logged and prevented from connecting
+- **Blocking:** Confirms blocked domains are logged and prevented from connecting
 - **Rate Limiting:** Observes how rapid requests from a single IP are handled with 429 responses
 - **Database Queries:** Supports complex analytics queries for historical trend analysis 
 
