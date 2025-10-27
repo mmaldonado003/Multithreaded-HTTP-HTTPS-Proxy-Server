@@ -17,7 +17,7 @@ enforcement, and analytics.
 | HTTPS CONNECT Tunneling   | Secure site connections handled via tunneling    | Ensures encrypted traffic can pass securely, supporting privacy and regulatory compliance |
 | Traffic Monitoring        | Logs all HTTP and HTTPS requests with metrics (TTFB, bandwidth, duration) | Provides audit trails for compliance, troubleshooting, and capacity planning |
 | Domain Blocking           | Wildcard pattern matching for content filtering  | Enforces organizational policies, blocks websites, and ensures regulatory compliance |
-| Rate Limiting             | Per-IP throttling (e.g., 100 req/10s) prevents abuse | Mitigates DDoS attacks, ensures fair resource allocation, and protects service quality |
+| Rate Limiting             | Per-IP throttling (100 req/10s) prevents abuse | Mitigates DDoS attacks, ensures fair resource allocation, and protects service quality |
 | Performance Analytics     | Automated reports with charts and summaries      | Supports stakeholder reporting, operational insights, and infrastructure optimization |
 | SQLite Database Backend   | Persistent storage of all traffic data for historical analysis | Enables trend analysis, complex queries, and data export for business intelligence tools |
 
